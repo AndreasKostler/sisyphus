@@ -1,0 +1,28 @@
+* Papers
+** Long Short-Term Memory
+:PROPERTIES:
+:Custom_ID: DBLP:journals/neco/HochreiterS97
+:END:
+[[file:papers/Hochreiter-Schmidhuber_Long Short-Term Memory_1997.pdf][DBLP:journals/neco/HochreiterS97]]
+*** Synopsis
+Hochreiter and Schmidhuber introduce a gradient-based learning method
+for recurrent neural networks called "Long Short-Term Memory" (LSTM)
+which overcomes the problem of 1) vanishing and 2) exploding gradients
+by truncating the gradients where this doesn't harm. This allows LSTMs
+to learn to bridge minimal time lags in excess of 1000 time steps.
+
+** DEEP LEARNING: Methods and Applications
+:PROPERTIES:
+:Custom_ID: export:209355
+:END:
+[[file:papers/Deng-Yu_DEEP%20LEARNING-%20Methods%20and%20Applications_2014.pdf][export:209355]]
+*** Synopsis
+This book gives an overview of the different types of Deep
+Architectures and their applications. Specifically, it examines
+applications in the areas of NLP, Speech Processing, with selected
+examples from Information Retrieval, Computer Vision, and Multi-Task
+learning.
+*** Notes
+This seems a very interesting book giving a basic introduction and
+overview
+

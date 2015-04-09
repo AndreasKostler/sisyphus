@@ -1,0 +1,3 @@
+#+LINK: note file:notes.org::%s
+
+[[note::Meyer2000][foo]]

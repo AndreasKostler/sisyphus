@@ -1,0 +1,2554 @@
+% This file was created with JabRef 2.10.
+% Encoding: UTF-8
+
+
+@InProceedings{Al-Khatib2007,
+  Title                    = {Mining Fraudulent Transactions in e-payment Systems},
+  Author                   = {Adnan M. Al{-}Khatib and
+Ezz Hattab},
+  Booktitle                = {iiWAS'2007 - The Ninth International Conference on Information Integration
+and Web-based Applications Services, 3-5 December 2007, Jakarta, Indonesia},
+  Year                     = {2007},
+  Pages                    = {179--189},
+
+  Bibsource                = {dblp computer science bibliography, http://dblp.org},
+  Biburl                   = {http://dblp.uni-trier.de/rec/bib/conf/iiwas/Al-KhatibH07},
+  Crossref                 = {DBLP:conf/iiwas/2007},
+  Timestamp                = {Thu, 03 Jan 2008 15:10:51 +0100}
+}
+
+@InProceedings{Assis2014,
+  Title                    = {A genetic programming approach for fraud detection in electronic transactions},
+  Author                   = {Carlos A. S. Assis and
+Adriano C{\'{e}}sar Machado Pereira and
+Marconi de Arruda Pereira and
+Eduardo G. Carrano},
+  Booktitle                = {2014 {IEEE} Symposium on Computational Intelligence in Cyber Security, {CICS} 2014, Orlando, FL, USA, December 9-12, 2014},
+  Year                     = {2014},
+  Pages                    = {96--103},
+
+  Bibsource                = {dblp computer science bibliography, http://dblp.org},
+  Biburl                   = {http://dblp.uni-trier.de/rec/bib/conf/cics/AssisPPC14},
+  Crossref                 = {DBLP:conf/cics/2014},
+  Doi                      = {10.1109/CICYBS.2014.7013373},
+  Link                     = {http://dx.doi.org/10.1109/CICYBS.2014.7013373},
+  Timestamp                = {Thu, 29 Jan 2015 13:31:08 +0100}
+}
+
+@InProceedings{Assis2013,
+  Title                    = {Using genetic programming to detect fraud in electronic transactions},
+  Author                   = {Carlos A. S. Assis and
+Adriano M. Pereira and
+Marconi de Arruda Pereira and
+Eduardo Gontijo Carrano},
+  Booktitle                = {19th Brazilian Symposium on Multimedia and the Web, WebMedia '13, Salvador, Brazil, November 5-8, 2013},
+  Year                     = {2013},
+  Pages                    = {337--340},
+
+  Bibsource                = {dblp computer science bibliography, http://dblp.org},
+  Biburl                   = {http://dblp.uni-trier.de/rec/bib/conf/webmedia/AssisPPC13},
+  Crossref                 = {DBLP:conf/webmedia/2013},
+  Doi                      = {10.1145/2526188.2526221},
+  Link                     = {http://doi.acm.org/10.1145/2526188.2526221},
+  Timestamp                = {Thu, 29 Jan 2015 13:29:42 +0100}
+}
+
+@InProceedings{Bengio2014a,
+  Title                    = {Scaling up deep learning},
+  Author                   = {Yoshua Bengio},
+  Booktitle                = {The 20\textsuperscript{th} {ACM} {SIGKDD} International Conference on Knowledge Discovery
+and Data Mining, {KDD} '14, New York, NY, {USA} - August 24 - 27, 2014},
+  Year                     = {2014},
+  Pages                    = {1966},
+
+  Bibsource                = {dblp computer science bibliography, http://dblp.org},
+  Biburl                   = {http://dblp.uni-trier.de/rec/bib/conf/kdd/Bengio14},
+  Crossref                 = {DBLP:conf/kdd/2014},
+  Doi                      = {10.1145/2623330.2630802},
+  Link                     = {http://doi.acm.org/10.1145/2623330.2630802},
+  Timestamp                = {Wed, 24 Sep 2014 13:01:29 +0200}
+}
+
+@InProceedings{Bengio2013a,
+  Title                    = {Deep Learning of Representations: Looking Forward},
+  Author                   = {Yoshua Bengio},
+  Booktitle                = {Statistical Language and Speech Processing - First International Conference, {SLSP} 2013, Tarragona, Spain, July 29-31, 2013. Proceedings},
+  Year                     = {2013},
+  Pages                    = {1--37},
+
+  Bibsource                = {dblp computer science bibliography, http://dblp.org},
+  Biburl                   = {http://dblp.uni-trier.de/rec/bib/conf/slsp/Bengio13},
+  Crossref                 = {DBLP:conf/slsp/2013},
+  Doi                      = {10.1007/978-3-642-39593-2_1},
+  Link                     = {http://dx.doi.org/10.1007/978-3-642-39593-2_1},
+  Timestamp                = {Wed, 24 Jul 2013 21:03:30 +0200}
+}
+
+@InCollection{Bengio2012,
+  Title                    = {Practical Recommendations for Gradient-Based Training of Deep Architectures},
+  Author                   = {Yoshua Bengio},
+  Booktitle                = {Neural Networks: Tricks of the Trade - Second Edition},
+  Year                     = {2012},
+  Pages                    = {437--478},
+
+  Bibsource                = {dblp computer science bibliography, http://dblp.org},
+  Biburl                   = {http://dblp.uni-trier.de/rec/bib/series/lncs/Bengio12},
+  Crossref                 = {DBLP:series/lncs/7700},
+  Doi                      = {10.1007/978-3-642-35289-8_26},
+  Link                     = {http://dx.doi.org/10.1007/978-3-642-35289-8_26},
+  Timestamp                = {Mon, 09 Sep 2013 18:53:44 +0200}
+}
+
+@InCollection{Bengio2013d,
+  Title                    = {Deep Learning of Representations},
+  Author                   = {Yoshua Bengio and
+Aaron C. Courville},
+  Booktitle                = {Handbook on Neural Information Processing},
+  Year                     = {2013},
+  Pages                    = {1--28},
+
+  Bibsource                = {dblp computer science bibliography, http://dblp.org},
+  Biburl                   = {http://dblp.uni-trier.de/rec/bib/series/isrl/BengioC13},
+  Crossref                 = {DBLP:series/isrl/49},
+  Doi                      = {10.1007/978-3-642-36657-4_1},
+  Link                     = {http://dx.doi.org/10.1007/978-3-642-36657-4_1},
+  Timestamp                = {Fri, 20 Sep 2013 17:43:54 +0200}
+}
+
+@InProceedings{Bengio2014,
+  Title                    = {Deep Generative Stochastic Networks Trainable by Backprop},
+  Author                   = {Yoshua Bengio and
+Eric Laufer and
+Guillaume Alain and
+Jason Yosinski},
+  Booktitle                = {Proceedings of the 31\textsuperscript{th} International Conference on Machine Learning, {ICML} 2014, Beijing, China, 21-26 June 2014},
+  Year                     = {2014},
+  Pages                    = {226--234},
+
+  Bibsource                = {dblp computer science bibliography, http://dblp.org},
+  Biburl                   = {http://dblp.uni-trier.de/rec/bib/conf/icml/BengioLAY14},
+  Crossref                 = {DBLP:conf/icml/2014},
+  File                     = {:papers/Bengio2014.pdf:PDF},
+  Link                     = {http://jmlr.org/proceedings/papers/v32/bengio14.html},
+  Timestamp                = {Fri, 07 Nov 2014 20:42:30 +0100}
+}
+
+@InProceedings{Bengio2013,
+  Title                    = {Generalized Denoising Auto-Encoders as Generative Models},
+  Author                   = {Yoshua Bengio and
+Li Yao and
+Guillaume Alain and
+Pascal Vincent},
+  Booktitle                = {Advances in Neural Information Processing Systems 26: 27\textsuperscript{th} Annual
+Conference on Neural Information Processing Systems 2013. Proceedings
+of a meeting held December 5-8, 2013, Lake Tahoe, Nevada, United States.},
+  Year                     = {2013},
+  Pages                    = {899--907},
+
+  Bibsource                = {dblp computer science bibliography, http://dblp.org},
+  Biburl                   = {http://dblp.uni-trier.de/rec/bib/conf/nips/BengioYAV13},
+  Crossref                 = {DBLP:conf/nips/2013},
+  Link                     = {http://papers.nips.cc/paper/5023-generalized-denoising-auto-encoders-as-generative-models},
+  Timestamp                = {Fri, 31 Jan 2014 12:11:40 +0100}
+}
+
+@InProceedings{Boulanger-Lewandowski2013,
+  Title                    = {High-dimensional sequence transduction},
+  Author                   = {Nicolas Boulanger{-}Lewandowski and
+Yoshua Bengio and
+Pascal Vincent},
+  Booktitle                = {{IEEE} International Conference on Acoustics, Speech and Signal Processing, {ICASSP} 2013, Vancouver, BC, Canada, May 26-31, 2013},
+  Year                     = {2013},
+  Pages                    = {3178--3182},
+
+  Bibsource                = {dblp computer science bibliography, http://dblp.org},
+  Biburl                   = {http://dblp.uni-trier.de/rec/bib/conf/icassp/Boulanger-LewandowskiBV13},
+  Crossref                 = {DBLP:conf/icassp/2013},
+  Doi                      = {10.1109/ICASSP.2013.6638244},
+  File                     = {:papers/Boulanger-Lewandowski2013.pdf:PDF},
+  Link                     = {http://dx.doi.org/10.1109/ICASSP.2013.6638244},
+  Timestamp                = {Sat, 02 Nov 2013 16:17:16 +0100}
+}
+
+@InProceedings{Boureau2010,
+  Title                    = {Learning mid-level features for recognition},
+  Author                   = {Y{-}Lan Boureau and
+Francis Bach and
+Yann LeCun and
+Jean Ponce},
+  Booktitle                = {The Twenty-Third {IEEE} Conference on Computer Vision and Pattern
+Recognition, {CVPR} 2010, San Francisco, CA, USA, 13-18 June 2010},
+  Year                     = {2010},
+  Pages                    = {2559--2566},
+
+  Bibsource                = {dblp computer science bibliography, http://dblp.org},
+  Biburl                   = {http://dblp.uni-trier.de/rec/bib/conf/cvpr/BoureauBLP10},
+  Crossref                 = {DBLP:conf/cvpr/2010},
+  Doi                      = {10.1109/CVPR.2010.5539963},
+  File                     = {:papers/Boureau2010.pdf:PDF},
+  Link                     = {http://dx.doi.org/10.1109/CVPR.2010.5539963},
+  Timestamp                = {Tue, 25 Nov 2014 17:05:17 +0100}
+}
+
+@InProceedings{Caldeira2012,
+  Title                    = {Characterizing and Evaluating Fraud in Electronic Transactions},
+  Author                   = {Evandro Caldeira and
+Gabriel Brand{\~{a}}o and
+Hudson Campos and
+Adriano C{\'{e}}sar Machado Pereira},
+  Booktitle                = {Eighth Latin American Web Congress, {LA-WEB} 2012, Cartagena de Indias, Colombia, October 25-27, 2012},
+  Year                     = {2012},
+  Pages                    = {115--122},
+
+  Bibsource                = {dblp computer science bibliography, http://dblp.org},
+  Biburl                   = {http://dblp.uni-trier.de/rec/bib/conf/la-web/CaldeiraBCP12},
+  Crossref                 = {DBLP:conf/la-web/2012},
+  Doi                      = {10.1109/LA-WEB.2012.16},
+  Link                     = {http://doi.ieeecomputersociety.org/10.1109/LA-WEB.2012.16},
+  Timestamp                = {Tue, 22 Jan 2013 10:27:36 +0100}
+}
+
+@InProceedings{Caldeira2014,
+  Title                    = {Fraud Analysis and Prevention in e-Commerce Transactions},
+  Author                   = {Evandro Caldeira and
+Gabriel Brand{\~{a}}o and
+Adriano C{\'{e}}sar Machado Pereira},
+  Booktitle                = {9th Latin American Web Congress, {LA-WEB} 2014, Ouro Preto, Minas
+Gerais, Brazil, 22-24 October, 2014},
+  Year                     = {2014},
+  Pages                    = {42--49},
+
+  Bibsource                = {dblp computer science bibliography, http://dblp.org},
+  Biburl                   = {http://dblp.uni-trier.de/rec/bib/conf/la-web/CaldeiraBP14},
+  Crossref                 = {DBLP:conf/la-web/2014},
+  Doi                      = {10.1109/LAWeb.2014.23},
+  Link                     = {http://dx.doi.org/10.1109/LAWeb.2014.23},
+  Timestamp                = {Sat, 10 Jan 2015 14:44:04 +0100}
+}
+
+@InProceedings{Chen2014,
+  Title                    = {Marginalized Denoising Auto-encoders for Nonlinear Representations},
+  Author                   = {Minmin Chen and
+Kilian Q. Weinberger and
+Fei Sha and
+Yoshua Bengio},
+  Booktitle                = {Proceedings of the 31\textsuperscript{th} International Conference on Machine Learning, {ICML} 2014, Beijing, China, 21-26 June 2014},
+  Year                     = {2014},
+  Pages                    = {1476--1484},
+
+  Bibsource                = {dblp computer science bibliography, http://dblp.org},
+  Biburl                   = {http://dblp.uni-trier.de/rec/bib/conf/icml/ChenWSB14},
+  Crossref                 = {DBLP:conf/icml/2014},
+  Link                     = {http://jmlr.org/proceedings/papers/v32/cheng14.html},
+  Timestamp                = {Fri, 07 Nov 2014 20:42:30 +0100}
+}
+
+@InProceedings{Coates2013,
+  Title                    = {Deep learning with {COTS HPC} systems},
+  Author                   = {Adam Coates and
+Brody Huval and
+Tao Wang and
+David J. Wu and
+Bryan C. Catanzaro and
+Andrew Y. Ng},
+  Booktitle                = {Proceedings of the 30\textsuperscript{th} International Conference on Machine Learning, {ICML} 2013, Atlanta, GA, USA, 16-21 June 2013},
+  Year                     = {2013},
+  Pages                    = {1337--1345},
+
+  Bibsource                = {dblp computer science bibliography, http://dblp.org},
+  Biburl                   = {http://dblp.uni-trier.de/rec/bib/conf/icml/CoatesHWWCN13},
+  Crossref                 = {DBLP:conf/icml/2013},
+  Link                     = {http://jmlr.org/proceedings/papers/v28/coates13.html},
+  Timestamp                = {Thu, 11 Sep 2014 07:28:55 +0200}
+}
+
+@InProceedings{Dean2012,
+  Title                    = {Large Scale Distributed Deep Networks},
+  Author                   = {Jeffrey Dean and
+Greg Corrado and
+Rajat Monga and
+Kai Chen and
+Matthieu Devin and
+Quoc V. Le and
+Mark Z. Mao and
+Marc'Aurelio Ranzato and
+Andrew W. Senior and
+Paul A. Tucker and
+Ke Yang and
+Andrew Y. Ng},
+  Booktitle                = {Advances in Neural Information Processing Systems 25: 26\textsuperscript{th} Annual
+Conference on Neural Information Processing Systems 2012. Proceedings
+of a meeting held December 3-6, 2012, Lake Tahoe, Nevada, United States.},
+  Year                     = {2012},
+  Pages                    = {1232--1240},
+
+  Bibsource                = {dblp computer science bibliography, http://dblp.org},
+  Biburl                   = {http://dblp.uni-trier.de/rec/bib/conf/nips/DeanCMCDLMRSTYN12},
+  Crossref                 = {DBLP:conf/nips/2012},
+  Link                     = {http://papers.nips.cc/paper/4687-large-scale-distributed-deep-networks},
+  Timestamp                = {Thu, 11 Dec 2014 17:34:07 +0100}
+}
+
+@InProceedings{Deng2013,
+  Title                    = {New types of deep neural network learning for speech recognition and
+related applications: an overview},
+  Author                   = {Li Deng and
+Geoffrey E. Hinton and
+Brian Kingsbury},
+  Booktitle                = {{IEEE} International Conference on Acoustics, Speech and Signal Processing, {ICASSP} 2013, Vancouver, BC, Canada, May 26-31, 2013},
+  Year                     = {2013},
+  Pages                    = {8599--8603},
+
+  Bibsource                = {dblp computer science bibliography, http://dblp.org},
+  Biburl                   = {http://dblp.uni-trier.de/rec/bib/conf/icassp/DengHK13},
+  Crossref                 = {DBLP:conf/icassp/2013},
+  Doi                      = {10.1109/ICASSP.2013.6639344},
+  File                     = {:papers/Deng2013.pdf:PDF},
+  Link                     = {http://dx.doi.org/10.1109/ICASSP.2013.6639344},
+  Timestamp                = {Sat, 02 Nov 2013 16:17:16 +0100}
+}
+
+@InProceedings{Dumoulin2014,
+  Title                    = {On the Challenges of Physical Implementations of RBMs},
+  Author                   = {Vincent Dumoulin and
+Ian J. Goodfellow and
+Aaron C. Courville and
+Yoshua Bengio},
+  Booktitle                = {Proceedings of the Twenty-Eighth {AAAI} Conference on Artificial Intelligence, July 27 -31, 2014, Qu{\'{e}}bec City, Qu{\'{e}}bec, Canada.},
+  Year                     = {2014},
+  Pages                    = {1199--1205},
+
+  Bibsource                = {dblp computer science bibliography, http://dblp.org},
+  Biburl                   = {http://dblp.uni-trier.de/rec/bib/conf/aaai/DumoulinGCB14},
+  Crossref                 = {DBLP:conf/aaai/2014},
+  File                     = {:papers/Dumoulin2014.pdf:PDF},
+  Link                     = {http://www.aaai.org/ocs/index.php/AAAI/AAAI14/paper/view/8608},
+  Timestamp                = {Thu, 31 Jul 2014 09:00:19 +0200}
+}
+
+@InProceedings{Goodfellow2013,
+  Title                    = {Multi-Prediction Deep Boltzmann Machines},
+  Author                   = {Ian J. Goodfellow and
+Mehdi Mirza and
+Aaron C. Courville and
+Yoshua Bengio},
+  Booktitle                = {Advances in Neural Information Processing Systems 26: 27\textsuperscript{th} Annual
+Conference on Neural Information Processing Systems 2013. Proceedings
+of a meeting held December 5-8, 2013, Lake Tahoe, Nevada, United States.},
+  Year                     = {2013},
+  Pages                    = {548--556},
+
+  Bibsource                = {dblp computer science bibliography, http://dblp.org},
+  Biburl                   = {http://dblp.uni-trier.de/rec/bib/conf/nips/GoodfellowMCB13},
+  Crossref                 = {DBLP:conf/nips/2013},
+  Link                     = {http://papers.nips.cc/paper/5024-multi-prediction-deep-boltzmann-machines},
+  Timestamp                = {Fri, 31 Jan 2014 12:11:40 +0100}
+}
+
+@InProceedings{Graves2013a,
+  Title                    = {Speech recognition with deep recurrent neural networks},
+  Author                   = {Alex Graves and
+Abdel{-}rahman Mohamed and
+Geoffrey E. Hinton},
+  Booktitle                = {{IEEE} International Conference on Acoustics, Speech and Signal Processing, {ICASSP} 2013, Vancouver, BC, Canada, May 26-31, 2013},
+  Year                     = {2013},
+  Pages                    = {6645--6649},
+
+  Bibsource                = {dblp computer science bibliography, http://dblp.org},
+  Biburl                   = {http://dblp.uni-trier.de/rec/bib/conf/icassp/GravesMH13},
+  Crossref                 = {DBLP:conf/icassp/2013},
+  Doi                      = {10.1109/ICASSP.2013.6638947},
+  Link                     = {http://dx.doi.org/10.1109/ICASSP.2013.6638947},
+  Timestamp                = {Sat, 02 Nov 2013 16:17:16 +0100}
+}
+
+@InProceedings{Halacsy2006,
+  Title                    = {Benefits of deep NLP-based Lemmatization for Information Retrieval},
+  Author                   = {P{\'{e}}ter Hal{\'{a}}csy},
+  Booktitle                = {Working Notes for {CLEF} 2006 Workshop co-located with the 10\textsuperscript{th} European
+Conference on Digital Libraries {(ECDL} 2006), Alicante, Spain, September
+20-22, 2006.},
+  Year                     = {2006},
+
+  Bibsource                = {dblp computer science bibliography, http://dblp.org},
+  Biburl                   = {http://dblp.uni-trier.de/rec/bib/conf/clef/Halacsy06},
+  Crossref                 = {DBLP:conf/clef/2006w},
+  File                     = {:papers/Halacsy2006.pdf:PDF},
+  Link                     = {http://ceur-ws.org/Vol-1172/CLEF2006wn-adhoc-Halacsy2006.pdf},
+  Timestamp                = {Tue, 23 Sep 2014 12:42:41 +0200}
+}
+
+@InCollection{Hinton2012,
+  Title                    = {A Practical Guide to Training Restricted Boltzmann Machines},
+  Author                   = {Geoffrey E. Hinton},
+  Booktitle                = {Neural Networks: Tricks of the Trade - Second Edition},
+  Year                     = {2012},
+  Pages                    = {599--619},
+
+  Bibsource                = {dblp computer science bibliography, http://dblp.org},
+  Biburl                   = {http://dblp.uni-trier.de/rec/bib/series/lncs/Hinton12},
+  Crossref                 = {DBLP:series/lncs/7700},
+  Doi                      = {10.1007/978-3-642-35289-8_32},
+  File                     = {:papers/Hinton2012.pdf:PDF},
+  Link                     = {http://dx.doi.org/10.1007/978-3-642-35289-8_32},
+  Timestamp                = {Mon, 09 Sep 2013 18:53:44 +0200}
+}
+
+@InProceedings{Junior2012,
+  Title                    = {Methodology for fraud detection in electronic transactions},
+  Author                   = {Jos{\'{e}} Felipe J{\'{u}}nior and
+Adriano M. Pereira and
+Wagner Meira Jr. and
+Adriano Veloso},
+  Booktitle                = {Brazilian Symposium on Multimedia and the Web, WebMedia '12, S{\~{a}}o
+Paulo, Brazil, October 15-18, 2012},
+  Year                     = {2012},
+  Pages                    = {289--292},
+
+  Bibsource                = {dblp computer science bibliography, http://dblp.org},
+  Biburl                   = {http://dblp.uni-trier.de/rec/bib/conf/webmedia/JuniorPMV12},
+  Crossref                 = {DBLP:conf/webmedia/2012},
+  Doi                      = {10.1145/2382636.2382697},
+  Link                     = {http://doi.acm.org/10.1145/2382636.2382697},
+  Timestamp                = {Sun, 21 Apr 2013 12:37:43 +0200}
+}
+
+@InProceedings{Le2011,
+  Title                    = {On optimization methods for deep learning},
+  Author                   = {Quoc V. Le and
+Jiquan Ngiam and
+Adam Coates and
+Ahbik Lahiri and
+Bobby Prochnow and
+Andrew Y. Ng},
+  Booktitle                = {Proceedings of the 28\textsuperscript{th} International Conference on Machine Learning, {ICML} 2011, Bellevue, Washington, USA, June 28 - July 2, 2011},
+  Year                     = {2011},
+  Pages                    = {265--272},
+
+  Bibsource                = {dblp computer science bibliography, http://dblp.org},
+  Biburl                   = {http://dblp.uni-trier.de/rec/bib/conf/icml/LeNCLPN11},
+  Crossref                 = {DBLP:conf/icml/2011},
+  Timestamp                = {Fri, 16 Dec 2011 12:40:46 +0100}
+}
+
+@InProceedings{Le2012,
+  Title                    = {Building high-level features using large scale unsupervised learning},
+  Author                   = {Quoc V. Le and
+Marc'Aurelio Ranzato and
+Rajat Monga and
+Matthieu Devin and
+Greg Corrado and
+Kai Chen and
+Jeffrey Dean and
+Andrew Y. Ng},
+  Booktitle                = {Proceedings of the 29\textsuperscript{th} International Conference on Machine Learning, {ICML} 2012, Edinburgh, Scotland, UK, June 26 - July 1, 2012},
+  Year                     = {2012},
+
+  Bibsource                = {dblp computer science bibliography, http://dblp.org},
+  Biburl                   = {http://dblp.uni-trier.de/rec/bib/conf/icml/LeRMDCCDN12},
+  Crossref                 = {DBLP:conf/icml/2012},
+  File                     = {:papers/Le2012.pdf:PDF},
+  Link                     = {http://icml.cc/discuss/2012/73.html},
+  Tags                     = {autoencoder},
+  Timestamp                = {Mon, 18 Feb 2013 20:50:58 +0100}
+}
+
+@InProceedings{LeCun2012,
+  Title                    = {Learning Invariant Feature Hierarchies},
+  Author                   = {Yann LeCun},
+  Booktitle                = {Computer Vision - {ECCV} 2012. Workshops and Demonstrations - Florence, Italy, October 7-13, 2012, Proceedings, Part {I}},
+  Year                     = {2012},
+  Pages                    = {496--505},
+
+  Bibsource                = {dblp computer science bibliography, http://dblp.org},
+  Biburl                   = {http://dblp.uni-trier.de/rec/bib/conf/eccv/LeCun12},
+  Crossref                 = {DBLP:conf/eccv/2012w1},
+  Doi                      = {10.1007/978-3-642-33863-2_51},
+  File                     = {:papers/LeCun2012.pdf:PDF},
+  Link                     = {http://dx.doi.org/10.1007/978-3-642-33863-2_51},
+  Timestamp                = {Wed, 26 Sep 2012 15:12:56 +0200}
+}
+
+@InCollection{LeCun2012a,
+  Title                    = {Efficient BackProp},
+  Author                   = {Yann LeCun and
+L{\'{e}}on Bottou and
+Genevieve B. Orr and
+Klaus{-}Robert M{\"{u}}ller},
+  Booktitle                = {Neural Networks: Tricks of the Trade - Second Edition},
+  Year                     = {2012},
+  Pages                    = {9--48},
+
+  Bibsource                = {dblp computer science bibliography, http://dblp.org},
+  Biburl                   = {http://dblp.uni-trier.de/rec/bib/series/lncs/LeCunBOM12},
+  Crossref                 = {DBLP:series/lncs/7700},
+  Doi                      = {10.1007/978-3-642-35289-8_3},
+  Link                     = {http://dx.doi.org/10.1007/978-3-642-35289-8_3},
+  Timestamp                = {Mon, 09 Sep 2013 18:53:44 +0200}
+}
+
+@InProceedings{Lim2014,
+  Title                    = {Conditional Weighted Transaction Aggregation for Credit Card Fraud
+Detection},
+  Author                   = {Wee{-}Yong Lim and
+Amit Sachan and
+Vrizlynn L. L. Thing},
+  Booktitle                = {Advances in Digital Forensics {X} - 10\textsuperscript{th} {IFIP} {WG} 11.9 International
+Conference, Vienna, Austria, January 8-10, 2014, Revised Selected
+Papers},
+  Year                     = {2014},
+  Pages                    = {3--16},
+
+  Bibsource                = {dblp computer science bibliography, http://dblp.org},
+  Biburl                   = {http://dblp.uni-trier.de/rec/bib/conf/ifip11-9/LimST14},
+  Crossref                 = {DBLP:conf/ifip11-9/2014},
+  Doi                      = {10.1007/978-3-662-44952-3_1},
+  Link                     = {http://dx.doi.org/10.1007/978-3-662-44952-3_1},
+  Timestamp                = {Fri, 10 Oct 2014 14:50:00 +0200}
+}
+
+@InProceedings{Lima2012,
+  Title                    = {Fraud detection in web transactions},
+  Author                   = {Rafael Alexandre Fran{\c{c}}a Lima and
+Adriano C{\'{e}}sar Machado Pereira},
+  Booktitle                = {Brazilian Symposium on Multimedia and the Web, WebMedia '12, S{\~{a}}o
+Paulo, Brazil, October 15-18, 2012},
+  Year                     = {2012},
+  Pages                    = {273--280},
+
+  Bibsource                = {dblp computer science bibliography, http://dblp.org},
+  Biburl                   = {http://dblp.uni-trier.de/rec/bib/conf/webmedia/LimaP12},
+  Crossref                 = {DBLP:conf/webmedia/2012},
+  Doi                      = {10.1145/2382636.2382695},
+  Link                     = {http://doi.acm.org/10.1145/2382636.2382695},
+  Timestamp                = {Sun, 21 Apr 2013 12:37:43 +0200}
+}
+
+@InProceedings{Maas2011,
+  Title                    = {Learning Word Vectors for Sentiment Analysis},
+  Author                   = {Andrew L. Maas and
+Raymond E. Daly and
+Peter T. Pham and
+Dan Huang and
+Andrew Y. Ng and
+Christopher Potts},
+  Booktitle                = {The 49\textsuperscript{th} Annual Meeting of the Association for Computational Linguistics:
+Human Language Technologies, Proceedings of the Conference, 19-24
+June, 2011, Portland, Oregon, {USA}},
+  Year                     = {2011},
+  Pages                    = {142--150},
+
+  Bibsource                = {dblp computer science bibliography, http://dblp.org},
+  Biburl                   = {http://dblp.uni-trier.de/rec/bib/conf/acl/MaasDPHNP11},
+  Crossref                 = {DBLP:conf/acl/2011},
+  Link                     = {http://www.aclweb.org/anthology/P11-1015},
+  Timestamp                = {Fri, 02 Dec 2011 14:17:37 +0100}
+}
+
+@InProceedings{Mohamed2012,
+  Title                    = {Understanding how Deep Belief Networks perform acoustic modelling},
+  Author                   = {Abdel{-}rahman Mohamed and
+Geoffrey E. Hinton and
+Gerald Penn},
+  Booktitle                = {2012 {IEEE} International Conference on Acoustics, Speech and Signal
+Processing, {ICASSP} 2012, Kyoto, Japan, March 25-30, 2012},
+  Year                     = {2012},
+  Pages                    = {4273--4276},
+
+  Bibsource                = {dblp computer science bibliography, http://dblp.org},
+  Biburl                   = {http://dblp.uni-trier.de/rec/bib/conf/icassp/MohamedHP12},
+  Crossref                 = {DBLP:conf/icassp/2012},
+  Doi                      = {10.1109/ICASSP.2012.6288863},
+  Link                     = {http://dx.doi.org/10.1109/ICASSP.2012.6288863},
+  Timestamp                = {Fri, 02 Nov 2012 12:13:31 +0100}
+}
+
+@InProceedings{Ngiam2011,
+  Title                    = {Learning Deep Energy Models},
+  Author                   = {Jiquan Ngiam and
+Zhenghao Chen and
+Pang Wei Koh and
+Andrew Y. Ng},
+  Booktitle                = {Proceedings of the 28\textsuperscript{th} International Conference on Machine Learning, {ICML} 2011, Bellevue, Washington, USA, June 28 - July 2, 2011},
+  Year                     = {2011},
+  Pages                    = {1105--1112},
+
+  Bibsource                = {dblp computer science bibliography, http://dblp.org},
+  Biburl                   = {http://dblp.uni-trier.de/rec/bib/conf/icml/NgiamCKN11},
+  Crossref                 = {DBLP:conf/icml/2011},
+  Timestamp                = {Fri, 16 Dec 2011 12:40:46 +0100}
+}
+
+@InProceedings{Ngiam2011a,
+  Title                    = {Multimodal Deep Learning},
+  Author                   = {Jiquan Ngiam and
+Aditya Khosla and
+Mingyu Kim and
+Juhan Nam and
+Honglak Lee and
+Andrew Y. Ng},
+  Booktitle                = {Proceedings of the 28\textsuperscript{th} International Conference on Machine Learning, {ICML} 2011, Bellevue, Washington, USA, June 28 - July 2, 2011},
+  Year                     = {2011},
+  Pages                    = {689--696},
+
+  Bibsource                = {dblp computer science bibliography, http://dblp.org},
+  Biburl                   = {http://dblp.uni-trier.de/rec/bib/conf/icml/NgiamKKNLN11},
+  Crossref                 = {DBLP:conf/icml/2011},
+  Timestamp                = {Fri, 16 Dec 2011 12:40:46 +0100}
+}
+
+@InProceedings{Ngiam2011b,
+  Title                    = {Sparse Filtering},
+  Author                   = {Jiquan Ngiam and
+Pang Wei Koh and
+Zhenghao Chen and
+Sonia A. Bhaskar and
+Andrew Y. Ng},
+  Booktitle                = {Advances in Neural Information Processing Systems 24: 25\textsuperscript{th} Annual
+Conference on Neural Information Processing Systems 2011. Proceedings
+of a meeting held 12-14 December 2011, Granada, Spain.},
+  Year                     = {2011},
+  Pages                    = {1125--1133},
+
+  Bibsource                = {dblp computer science bibliography, http://dblp.org},
+  Biburl                   = {http://dblp.uni-trier.de/rec/bib/conf/nips/NgiamKCBN11},
+  Crossref                 = {DBLP:conf/nips/2011},
+  Link                     = {http://papers.nips.cc/paper/4334-sparse-filtering},
+  Timestamp                = {Thu, 11 Dec 2014 17:34:08 +0100}
+}
+
+@InProceedings{Niebur1993,
+  Title                    = {Neurobiology, Psychophysics, and Computational Models of Visual Attention},
+  Author                   = {Ernst Niebur and
+Bruno A. Olshausen},
+  Booktitle                = {Advances in Neural Information Processing Systems 6, [7th {NIPS} Conference, Denver, Colorado, USA, 1993]},
+  Year                     = {1993},
+  Pages                    = {1167--1168},
+
+  Bibsource                = {dblp computer science bibliography, http://dblp.org},
+  Biburl                   = {http://dblp.uni-trier.de/rec/bib/conf/nips/NieburO93},
+  Crossref                 = {DBLP:conf/nips/1993},
+  Link                     = {http://papers.nips.cc/paper/829-neurobiology-psychophysics-and-computational-models-of-visual-attention},
+  Timestamp                = {Thu, 11 Dec 2014 17:34:08 +0100}
+}
+
+@InProceedings{Pennington2014,
+  Title                    = {Glove: Global Vectors for Word Representation},
+  Author                   = {Jeffrey Pennington and
+Richard Socher and
+Christopher D. Manning},
+  Booktitle                = {Proceedings of the 2014 Conference on Empirical Methods in Natural
+Language Processing, {EMNLP} 2014, October 25-29, 2014, Doha, Qatar, {A} meeting of SIGDAT, a Special Interest Group of the {ACL}},
+  Year                     = {2014},
+  Pages                    = {1532--1543},
+
+  Bibsource                = {dblp computer science bibliography, http://dblp.org},
+  Biburl                   = {http://dblp.uni-trier.de/rec/bib/conf/emnlp/PenningtonSM14},
+  Crossref                 = {DBLP:conf/emnlp/2014},
+  Link                     = {http://aclweb.org/anthology/D/D14/D14-1162.pdf},
+  Timestamp                = {Sat, 15 Nov 2014 14:45:18 +0100}
+}
+
+@InProceedings{Raiko2012,
+  Title                    = {Deep Learning Made Easier by Linear Transformations in Perceptrons},
+  Author                   = {Tapani Raiko and
+Harri Valpola and
+Yann LeCun},
+  Booktitle                = {Proceedings of the Fifteenth International Conference on Artificial
+Intelligence and Statistics, {AISTATS} 2012, La Palma, Canary Islands, April 21-23, 2012},
+  Year                     = {2012},
+  Pages                    = {924--932},
+
+  Bibsource                = {dblp computer science bibliography, http://dblp.org},
+  Biburl                   = {http://dblp.uni-trier.de/rec/bib/journals/jmlr/RaikoVL12},
+  Crossref                 = {DBLP:conf/aistats/2012},
+  Link                     = {http://jmlr.csail.mit.edu/proceedings/papers/v22/raiko12.html},
+  Timestamp                = {Thu, 11 Sep 2014 07:28:56 +0200}
+}
+
+@InProceedings{Rifai2011,
+  Title                    = {Contractive Auto-Encoders: Explicit Invariance During Feature Extraction.},
+  Author                   = {Rifai, Salah and Vincent, Pascal and Muller, Xavier and Glorot, Xavier and Bengio, Yoshua},
+  Booktitle                = {ICML},
+  Year                     = {2011},
+  Editor                   = {Getoor, Lise and Scheffer, Tobias},
+  Pages                    = {833--840},
+  Publisher                = {Omnipress},
+
+  Added-at                 = {2011-12-16T00:00:00.000+0100},
+  Biburl                   = {http://www.bibsonomy.org/bibtex/28f26a7044285547aa837507603c30b77/dblp},
+  Crossref                 = {conf/icml/2011},
+  File                     = {:papers/Rifai2011.pdf:PDF},
+  Interhash                = {e19f80ada701efa67ab82010144c430e},
+  Intrahash                = {8f26a7044285547aa837507603c30b77},
+  Keywords                 = {dblp},
+  Timestamp                = {2011-12-17T11:33:28.000+0100},
+  Url                      = {http://dblp.uni-trier.de/db/conf/icml/icml2011.html#RifaiVMGB11}
+}
+
+@InProceedings{Sa2014,
+  Title                    = {Generating Personalized Algorithms to Learn {Bayes}ian Network Classifiers
+for Fraud Detection in Web Transactions},
+  Author                   = {Alex Guimar{\~{a}}es Cardoso de S{\'{a}} and
+Gisele L. Pappa and
+Adriano C{\'{e}}sar Machado Pereira},
+  Booktitle                = {Proceedings of the 20\textsuperscript{th} Brazilian Symposium on Multimedia and the
+Web, WebMedia 2014, Jo{\~{a}}o Pessoa, Brazil, November 18-21, 2014},
+  Year                     = {2014},
+  Pages                    = {179--186},
+
+  Bibsource                = {dblp computer science bibliography, http://dblp.org},
+  Biburl                   = {http://dblp.uni-trier.de/rec/bib/conf/webmedia/SaPP14},
+  Crossref                 = {DBLP:conf/webmedia/2014},
+  Doi                      = {10.1145/2664551.2664568},
+  Link                     = {http://doi.acm.org/10.1145/2664551.2664568},
+  Timestamp                = {Sat, 03 Jan 2015 14:37:30 +0100}
+}
+
+@InProceedings{Saxe2011,
+  Title                    = {On Random Weights and Unsupervised Feature Learning},
+  Author                   = {Andrew M. Saxe and
+Pang Wei Koh and
+Zhenghao Chen and
+Maneesh Bhand and
+Bipin Suresh and
+Andrew Y. Ng},
+  Booktitle                = {Proceedings of the 28\textsuperscript{th} International Conference on Machine Learning, {ICML} 2011, Bellevue, Washington, USA, June 28 - July 2, 2011},
+  Year                     = {2011},
+  Pages                    = {1089--1096},
+
+  Bibsource                = {dblp computer science bibliography, http://dblp.org},
+  Biburl                   = {http://dblp.uni-trier.de/rec/bib/conf/icml/SaxeKCBSN11},
+  Crossref                 = {DBLP:conf/icml/2011},
+  Timestamp                = {Fri, 16 Dec 2011 12:40:46 +0100}
+}
+
+@InProceedings{Schaul2013,
+  Title                    = {No more pesky learning rates},
+  Author                   = {Tom Schaul and
+Sixin Zhang and
+Yann LeCun},
+  Booktitle                = {Proceedings of the 30\textsuperscript{th} International Conference on Machine Learning, {ICML} 2013, Atlanta, GA, USA, 16-21 June 2013},
+  Year                     = {2013},
+  Pages                    = {343--351},
+
+  Bibsource                = {dblp computer science bibliography, http://dblp.org},
+  Biburl                   = {http://dblp.uni-trier.de/rec/bib/conf/icml/SchaulZL13},
+  Crossref                 = {DBLP:conf/icml/2013},
+  Link                     = {http://jmlr.org/proceedings/papers/v28/schaul13.html},
+  Timestamp                = {Thu, 11 Sep 2014 07:28:55 +0200}
+}
+
+@InProceedings{Sermanet2013,
+  Title                    = {Pedestrian Detection with Unsupervised Multi-stage Feature Learning},
+  Author                   = {Pierre Sermanet and
+Koray Kavukcuoglu and
+Soumith Chintala and
+Yann LeCun},
+  Booktitle                = {2013 {IEEE} Conference on Computer Vision and Pattern Recognition, Portland, OR, USA, June 23-28, 2013},
+  Year                     = {2013},
+  Pages                    = {3626--3633},
+
+  Bibsource                = {dblp computer science bibliography, http://dblp.org},
+  Biburl                   = {http://dblp.uni-trier.de/rec/bib/conf/cvpr/SermanetKCL13},
+  Crossref                 = {DBLP:conf/cvpr/2013},
+  Doi                      = {10.1109/CVPR.2013.465},
+  File                     = {:papers/Sermanet2013.pdf:PDF},
+  Link                     = {http://dx.doi.org/10.1109/CVPR.2013.465},
+  Timestamp                = {Thu, 31 Jul 2014 17:21:53 +0200}
+}
+
+@InProceedings{Sermanet2011,
+  Title                    = {Traffic sign recognition with multi-scale Convolutional Networks},
+  Author                   = {Pierre Sermanet and
+Yann LeCun},
+  Booktitle                = {The 2011 International Joint Conference on Neural Networks, {IJCNN}
+2011, San Jose, California, USA, July 31 - August 5, 2011},
+  Year                     = {2011},
+  Pages                    = {2809--2813},
+
+  Bibsource                = {dblp computer science bibliography, http://dblp.org},
+  Biburl                   = {http://dblp.uni-trier.de/rec/bib/conf/ijcnn/SermanetL11},
+  Crossref                 = {DBLP:conf/ijcnn/2011},
+  Doi                      = {10.1109/IJCNN.2011.6033589},
+  Link                     = {http://dx.doi.org/10.1109/IJCNN.2011.6033589},
+  Timestamp                = {Mon, 23 Apr 2012 19:23:56 +0200}
+}
+
+@InProceedings{Socher2011,
+  Title                    = {Dynamic Pooling and Unfolding Recursive Autoencoders for Paraphrase
+Detection},
+  Author                   = {Richard Socher and
+Eric H. Huang and
+Jeffrey Pennington and
+Andrew Y. Ng and
+Christopher D. Manning},
+  Booktitle                = {Advances in Neural Information Processing Systems 24: 25\textsuperscript{th} Annual
+Conference on Neural Information Processing Systems 2011. Proceedings
+of a meeting held 12-14 December 2011, Granada, Spain.},
+  Year                     = {2011},
+  Pages                    = {801--809},
+
+  Bibsource                = {dblp computer science bibliography, http://dblp.org},
+  Biburl                   = {http://dblp.uni-trier.de/rec/bib/conf/nips/SocherHPNM11},
+  Crossref                 = {DBLP:conf/nips/2011},
+  Link                     = {http://papers.nips.cc/paper/4204-dynamic-pooling-and-unfolding-recursive-autoencoders-for-paraphrase-detection},
+  Timestamp                = {Thu, 11 Dec 2014 17:34:08 +0100}
+}
+
+@InProceedings{Socher2013,
+  Title                    = {Deep Learning for {NLP} (without Magic)},
+  Author                   = {Richard Socher and
+Christopher D. Manning},
+  Booktitle                = {Human Language Technologies: Conference of the North American Chapter
+of the Association of Computational Linguistics, Proceedings, June
+9-14, 2013, Westin Peachtree Plaza Hotel, Atlanta, Georgia, {USA}},
+  Year                     = {2013},
+  Pages                    = {1--3},
+
+  Bibsource                = {dblp computer science bibliography, http://dblp.org},
+  Biburl                   = {http://dblp.uni-trier.de/rec/bib/conf/naacl/SocherM13},
+  Crossref                 = {DBLP:conf/naacl/2013},
+  File                     = {:papers/Socher2013.pdf:PDF},
+  Link                     = {http://aclweb.org/anthology/N/N13/N13-4001.pdf},
+  Timestamp                = {Fri, 21 Feb 2014 14:03:41 +0100}
+}
+
+@InProceedings{Sordoni2013,
+  Title                    = {Modeling term dependencies with quantum language models for {IR}},
+  Author                   = {Alessandro Sordoni and
+Jian{-}Yun Nie and
+Yoshua Bengio},
+  Booktitle                = {The 36\textsuperscript{th} International {ACM} {SIGIR} conference on research and development
+in Information Retrieval, {SIGIR} '13, Dublin, Ireland - July 28 -
+August 01, 2013},
+  Year                     = {2013},
+  Pages                    = {653--662},
+
+  Bibsource                = {dblp computer science bibliography, http://dblp.org},
+  Biburl                   = {http://dblp.uni-trier.de/rec/bib/conf/sigir/SordoniNB13},
+  Crossref                 = {DBLP:conf/sigir/2013},
+  Doi                      = {10.1145/2484028.2484098},
+  Link                     = {http://doi.acm.org/10.1145/2484028.2484098},
+  Timestamp                = {Fri, 26 Jul 2013 09:53:02 +0200}
+}
+
+@InProceedings{Srivastava2013,
+  Title                    = {Modeling Documents with Deep Boltzmann Machines},
+  Author                   = {Nitish Srivastava and
+Ruslan Salakhutdinov and
+Geoffrey E. Hinton},
+  Booktitle                = {Proceedings of the Twenty-Ninth Conference on Uncertainty in Artificial
+Intelligence, Bellevue, WA, USA, August 11-15, 2013},
+  Year                     = {2013},
+
+  Bibsource                = {dblp computer science bibliography, http://dblp.org},
+  Biburl                   = {http://dblp.uni-trier.de/rec/bib/conf/uai/SrivastavaSH13},
+  Crossref                 = {DBLP:conf/uai/2013},
+  File                     = {:papers/Srivastava2013.pdf:PDF},
+  Link                     = {https://dslpitt.org/uai/displayArticleDetails.jsp?mmnu=1&amp;smnu=2&amp;article_id=2423&amp;proceeding_id=29},
+  Timestamp                = {Fri, 26 Sep 2014 15:12:28 +0200}
+}
+
+@InProceedings{Sutskever2013,
+  Title                    = {On the importance of initialization and momentum in deep learning},
+  Author                   = {Ilya Sutskever and
+James Martens and
+George E. Dahl and
+Geoffrey E. Hinton},
+  Booktitle                = {Proceedings of the 30\textsuperscript{th} International Conference on Machine Learning, {ICML} 2013, Atlanta, GA, USA, 16-21 June 2013},
+  Year                     = {2013},
+  Pages                    = {1139--1147},
+
+  Bibsource                = {dblp computer science bibliography, http://dblp.org},
+  Biburl                   = {http://dblp.uni-trier.de/rec/bib/conf/icml/SutskeverMDH13},
+  Crossref                 = {DBLP:conf/icml/2013},
+  Link                     = {http://jmlr.org/proceedings/papers/v28/sutskever13.html},
+  Timestamp                = {Thu, 11 Sep 2014 07:28:55 +0200}
+}
+
+@InProceedings{Vincent2008,
+  Title                    = {Extracting and Composing Robust Features with Denoising Autoencoders},
+  Author                   = {Vincent, Pascal and Larochelle, Hugo and Bengio, Yoshua and Manzagol, Pierre-Antoine},
+  Year                     = {2008},
+  Pages                    = {1096--1103},
+
+  Abstract                 = {Recently, many applications for Restricted Boltzmann Machines (RBMs) have been developed for a large variety of learning problems. However, RBMs are usually used as feature extractors for another learning algorithm or to provide a good initialization
+for deep feed-forward neural network classifiers, and are not considered as a standalone solution to classification problems. In
+this paper, we argue that RBMs provide a self-contained framework for deriving competitive non-linear classifiers. We present an evaluation of different learning algorithms for
+RBMs which aim at introducing a discriminative component to RBM training and improve their performance as classifiers. This
+approach is simple in that RBMs are used directly to build a classifier, rather than as a stepping stone. Finally, we demonstrate how discriminative RBMs can also be successfully employed in a semi-supervised setting.},
+  Crossref                 = {ICML08},
+  File                     = {:papers/Vincent2008.pdf:PDF},
+  Tags                     = {autoencoder}
+}
+
+@InProceedings{Wan2013,
+  Title                    = {Regularization of Neural Networks using DropConnect},
+  Author                   = {Li Wan and
+Matthew D. Zeiler and
+Sixin Zhang and
+Yann LeCun and
+Rob Fergus},
+  Booktitle                = {Proceedings of the 30\textsuperscript{th} International Conference on Machine Learning, {ICML} 2013, Atlanta, GA, USA, 16-21 June 2013},
+  Year                     = {2013},
+  Pages                    = {1058--1066},
+
+  Bibsource                = {dblp computer science bibliography, http://dblp.org},
+  Biburl                   = {http://dblp.uni-trier.de/rec/bib/conf/icml/WanZZLF13},
+  Crossref                 = {DBLP:conf/icml/2013},
+  Link                     = {http://jmlr.org/proceedings/papers/v28/wan13.html},
+  Timestamp                = {Thu, 11 Sep 2014 07:28:55 +0200}
+}
+
+@InProceedings{Wang2012,
+  Title                    = {End-to-end text recognition with convolutional neural networks},
+  Author                   = {Tao Wang and
+David J. Wu and
+Adam Coates and
+Andrew Y. Ng},
+  Booktitle                = {Proceedings of the 21\textsuperscript{st} International Conference on Pattern Recognition, {ICPR} 2012, Tsukuba, Japan, November 11-15, 2012},
+  Year                     = {2012},
+  Pages                    = {3304--3308},
+
+  Bibsource                = {dblp computer science bibliography, http://dblp.org},
+  Biburl                   = {http://dblp.uni-trier.de/rec/bib/conf/icpr/WangWCN12},
+  Crossref                 = {DBLP:conf/icpr/2012},
+  Link                     = {http://ieeexplore.ieee.org/xpl/freeabs_all.jsp?arnumber=6460871},
+  Timestamp                = {Thu, 02 Oct 2014 17:00:46 +0200}
+}
+
+@InProceedings{Yang2014,
+  Title                    = {Based Big Data Analysis of Fraud Detection for Online Transaction
+Orders},
+  Author                   = {Qinghong Yang and
+Xiangquan Hu and
+Zhichao Cheng and
+Kang Miao and
+Xiaohong Zheng},
+  Booktitle                = {Cloud Computing - 5\textsuperscript{th} International Conference, CloudComp 2014, Guilin, China, October 19-21, 2014, Revised Selected Papers},
+  Year                     = {2014},
+  Pages                    = {98--106},
+
+  Bibsource                = {dblp computer science bibliography, http://dblp.org},
+  Biburl                   = {http://dblp.uni-trier.de/rec/bib/conf/cloudcomp/YangHCMZ14},
+  Crossref                 = {DBLP:conf/cloudcomp/2014},
+  Doi                      = {10.1007/978-3-319-16050-4_9},
+  Link                     = {http://dx.doi.org/10.1007/978-3-319-16050-4_9},
+  Timestamp                = {Mon, 09 Mar 2015 13:53:56 +0100}
+}
+
+@InProceedings{Yosinski2014,
+  Title                    = {How transferable are features in deep neural networks?},
+  Author                   = {Jason Yosinski and
+Jeff Clune and
+Yoshua Bengio and
+Hod Lipson},
+  Booktitle                = {Advances in Neural Information Processing Systems 27: Annual Conference
+on Neural Information Processing Systems 2014, December 8-13 2014, Montreal, Quebec, Canada},
+  Year                     = {2014},
+  Pages                    = {3320--3328},
+
+  Bibsource                = {dblp computer science bibliography, http://dblp.org},
+  Biburl                   = {http://dblp.uni-trier.de/rec/bib/conf/nips/YosinskiCBL14},
+  Crossref                 = {DBLP:conf/nips/2014},
+  Link                     = {http://papers.nips.cc/paper/5347-how-transferable-are-features-in-deep-neural-networks},
+  Timestamp                = {Wed, 10 Dec 2014 21:34:12 +0100}
+}
+
+@Article{Ackley1985,
+  Title                    = {A learning algorithm for Boltzmann machines},
+  Author                   = {H. Ackley and E. Hinton and J. Sejnowski},
+  Journal                  = {Cognitive Science},
+  Year                     = {1985},
+  Pages                    = {147--169},
+
+  File                     = {:papers/Ackley1985.pdf:PDF},
+  Tags                     = {boltzman}
+}
+
+@Article{Baehrens,
+  Title                    = {{How to Explain Individual Classification Decisions}},
+  Author                   = {Baehrens, David and Schroeter, Timon and Harmeling, Stefan and Kawanabe, Motoaki and Hansen, Katja and M\&\#252;ller, Klaus-Robert},
+  Journal                  = {Journal of Machine Learning Research},
+
+  Abstract                 = {{After building a classifier with modern tools of machine learning we typically have a black box at hand that is able to predict well for unseen data. Thus, we get an answer to the question what is the most likely label of a given unseen data point. However, most methods will provide no answer why the model predicted a particular label for a single instance and what features were most influential for that particular instance. The only method that is currently able to provide such explanations are decision trees. This paper proposes a procedure which (based on a set of assumptions) allows to explain the decisions of any classification method.}},
+  Citeulike-article-id     = {7395366},
+  Citeulike-linkout-0      = {http://www.jmlr.org/papers/volume11/baehrens10a/baehrens10a.pdf},
+  File                     = {:papers/Baehrens.pdf:PDF},
+  Keywords                 = {chemoinformatics, comprehensibility, opening-the-black-box},
+  Posted-at                = {2010-07-03 11:17:44},
+  Priority                 = {2},
+  Url                      = {http://www.jmlr.org/papers/volume11/baehrens10a/baehrens10a.pdf}
+}
+
+@Article{Behdad2012,
+  Title                    = {Nature-Inspired Techniques in the Context of Fraud Detection},
+  Author                   = {Mohammad Behdad and
+Luigi Barone and
+Mohammed Bennamoun and
+Tim French},
+  Journal                  = {{IEEE} Transactions on Systems, Man, and Cybernetics, Part {C}},
+  Year                     = {2012},
+  Number                   = {6},
+  Pages                    = {1273--1290},
+  Volume                   = {42},
+
+  Bibsource                = {dblp computer science bibliography, http://dblp.org},
+  Biburl                   = {http://dblp.uni-trier.de/rec/bib/journals/tsmc/BehdadBBF12},
+  Doi                      = {10.1109/TSMCC.2012.2215851},
+  Link                     = {http://dx.doi.org/10.1109/TSMCC.2012.2215851},
+  Timestamp                = {Fri, 12 Apr 2013 14:57:45 +0200}
+}
+
+@Article{Bengio2013c,
+  Title                    = {Guest Editors' Introduction: Special Section on Learning Deep Architectures},
+  Author                   = {Samy Bengio and
+Li Deng and
+Hugo Larochelle and
+Honglak Lee and
+Ruslan Salakhutdinov},
+  Journal                  = {{IEEE} Trans. Pattern Anal. Mach. Intell.},
+  Year                     = {2013},
+  Number                   = {8},
+  Pages                    = {1795--1797},
+  Volume                   = {35},
+
+  Bibsource                = {dblp computer science bibliography, http://dblp.org},
+  Biburl                   = {http://dblp.uni-trier.de/rec/bib/journals/pami/BengioDLLS13},
+  Doi                      = {10.1109/TPAMI.2013.118},
+  Link                     = {http://doi.ieeecomputersociety.org/10.1109/TPAMI.2013.118},
+  Timestamp                = {Tue, 25 Jun 2013 20:04:57 +0200}
+}
+
+@Article{Bengio2009,
+  Title                    = {Learning Deep Architectures for {AI}},
+  Author                   = {Yoshua Bengio},
+  Journal                  = {Foundations and Trends in Machine Learning},
+  Year                     = {2009},
+  Number                   = {1},
+  Pages                    = {1--127},
+  Volume                   = {2},
+
+  Bibsource                = {dblp computer science bibliography, http://dblp.org},
+  Biburl                   = {http://dblp.uni-trier.de/rec/bib/journals/ftml/Bengio09},
+  Doi                      = {10.1561/2200000006},
+  File                     = {:papers/Bengio2009.pdf:PDF},
+  Link                     = {http://dx.doi.org/10.1561/2200000006},
+  Timestamp                = {Sun, 22 Nov 2009 18:00:52 +0100}
+}
+
+@Article{Bengio2013b,
+  Title                    = {Representation Learning: {A} Review and New Perspectives},
+  Author                   = {Yoshua Bengio and
+Aaron C. Courville and
+Pascal Vincent},
+  Journal                  = {{IEEE} Trans. Pattern Anal. Mach. Intell.},
+  Year                     = {2013},
+  Number                   = {8},
+  Pages                    = {1798--1828},
+  Volume                   = {35},
+
+  Bibsource                = {dblp computer science bibliography, http://dblp.org},
+  Biburl                   = {http://dblp.uni-trier.de/rec/bib/journals/pami/BengioCV13},
+  Doi                      = {10.1109/TPAMI.2013.50},
+  Link                     = {http://doi.ieeecomputersociety.org/10.1109/TPAMI.2013.50},
+  Timestamp                = {Tue, 25 Jun 2013 20:04:57 +0200}
+}
+
+@Article{Bengio2003,
+  Title                    = {A Neural Probabilistic Language Model},
+  Author                   = {Bengio, Yoshua and Ducharme, R{\'e}jean and Vincent, Pascal and Janvin, Christian},
+  Journal                  = {J. Mach. Learn. Res.},
+  Year                     = {2003},
+
+  Month                    = mar,
+  Pages                    = {1137--1155},
+  Volume                   = {3},
+
+  Acmid                    = {944966},
+  File                     = {:papers/Bengio2003.pdf:PDF},
+  ISSN                     = {1532-4435},
+  Issue_date               = {3/1/2003},
+  Numpages                 = {19},
+  Publisher                = {JMLR.org},
+  Url                      = {http://dl.acm.org/citation.cfm?id=944919.944966}
+}
+
+@InProceedings{Bengio2007,
+  Title                    = {Greedy layer-wise training of deep networks},
+  Author                   = {Yoshua Bengio and Pascal Lamblin and Dan Popovici and Hugo Larochelle and Universit{\'{e}} De Montr{\'{e}}al and Montr{\'{e}}al Qu{\'{e}}bec},
+  Booktitle                = {In NIPS},
+  Year                     = {2007},
+  Publisher                = {MIT Press},
+
+  File                     = {:papers/Bengio2007.pdf:PDF}
+}
+
+@InCollection{Bengio2007a,
+  Title                    = {Scaling Learning Algorithms towards {AI}},
+  Author                   = {Bengio, Yoshua and {LeCun}, Yann},
+  Booktitle                = {Large Scale Kernel Machines},
+  Publisher                = {MIT Press},
+  Year                     = {2007},
+  Editor                   = {Bottou, {L{\'{e}}on} and Chapelle, Olivier and DeCoste, D. and Weston, J.},
+
+  Abstract                 = {One long-term goal of machine learning research is to produce methods that
+are applicable to highly complex tasks, such as perception (vision, audition), reasoning,
+intelligent control, and other artificially intelligent behaviors. We argue
+that in order to progress toward this goal, the Machine Learning community must
+endeavor to discover algorithms that can learn highly complex functions, with minimal
+need for prior knowledge, and with minimal human intervention. We present
+mathematical and empirical evidence suggesting that many popular approaches
+to non-parametric learning, particularly kernel methods, are fundamentally limited
+in their ability to learn complex high-dimensional functions. Our analysis
+focuses on two problems. First, kernel machines are shallow architectures, in
+which one large layer of simple template matchers is followed by a single layer
+of trainable coefficients. We argue that shallow architectures can be very inefficient
+in terms of required number of computational elements and examples. Second,
+we analyze a limitation of kernel machines with a local kernel, linked to the
+curse of dimensionality, that applies to supervised, unsupervised (manifold learning)
+and semi-supervised kernel machines. Using empirical results on invariant
+image recognition tasks, kernel methods are compared with deep architectures, in
+which lower-level features or concepts are progressively combined into more abstract
+and higher-level representations. We argue that deep architectures have the
+potential to generalize in non-local ways, i.e., beyond immediate neighbors, and
+that this is crucial in order to make progress on the kind of complex tasks required
+for artificial intelligence.},
+  Cat                      = {B},
+  File                     = {:papers/Bengio2007a.pdf:PDF},
+  Topics                   = {HighDimensional},
+  Url                      = {http://www.iro.umontreal.ca/~lisa/pointeurs/bengio+lecun_chapter2007.pdf}
+}
+
+@Article{Bengio2015,
+  Title                    = {Towards Biologically Plausible Deep Learning},
+  Author                   = {Yoshua Bengio and
+Dong{-}Hyun Lee and
+J{\"{o}}rg Bornschein and
+Zhouhan Lin},
+  Journal                  = {CoRR},
+  Year                     = {2015},
+  Volume                   = {abs/1502.04156},
+
+  Bibsource                = {dblp computer science bibliography, http://dblp.org},
+  Biburl                   = {http://dblp.uni-trier.de/rec/bib/journals/corr/BengioLBL15},
+  File                     = {:papers/Bengio2015.pdf:PDF},
+  Link                     = {http://arxiv.org/abs/1502.04156},
+  Timestamp                = {Mon, 02 Mar 2015 14:17:34 +0100}
+}
+
+@Article{Bergstra2012,
+  Title                    = {Random Search for Hyper-parameter Optimization},
+  Author                   = {Bergstra, James and Bengio, Yoshua},
+  Journal                  = {J. Mach. Learn. Res.},
+  Year                     = {2012},
+
+  Month                    = feb,
+  Pages                    = {281--305},
+  Volume                   = {13},
+
+  Acmid                    = {2188395},
+  File                     = {:papers/Bergstra2012.pdf:PDF},
+  ISSN                     = {1532-4435},
+  Issue_date               = {3/1/2012},
+  Keywords                 = {deep learning, global optimization, model selection, neural networks, response surface modeling},
+  Numpages                 = {25},
+  Publisher                = {JMLR.org},
+  Url                      = {http://dl.acm.org/citation.cfm?id=2188385.2188395}
+}
+
+@Article{Bordes2014,
+  Title                    = {A semantic matching energy function for learning with multi-relational
+data - Application to word-sense disambiguation},
+  Author                   = {Antoine Bordes and
+Xavier Glorot and
+Jason Weston and
+Yoshua Bengio},
+  Journal                  = {Machine Learning},
+  Year                     = {2014},
+  Number                   = {2},
+  Pages                    = {233--259},
+  Volume                   = {94},
+
+  Bibsource                = {dblp computer science bibliography, http://dblp.org},
+  Biburl                   = {http://dblp.uni-trier.de/rec/bib/journals/ml/BordesGWB14},
+  Doi                      = {10.1007/s10994-013-5363-6},
+  Link                     = {http://dx.doi.org/10.1007/s10994-013-5363-6},
+  Timestamp                = {Mon, 13 Jan 2014 12:43:19 +0100}
+}
+
+@Article{Chen2013,
+  Title                    = {Learning New Facts From Knowledge Bases With Neural Tensor Networks
+and Semantic Word Vectors},
+  Author                   = {Danqi Chen and
+Richard Socher and
+Christopher D. Manning and
+Andrew Y. Ng},
+  Journal                  = {CoRR},
+  Year                     = {2013},
+  Volume                   = {abs/1301.3618},
+
+  Bibsource                = {dblp computer science bibliography, http://dblp.org},
+  Biburl                   = {http://dblp.uni-trier.de/rec/bib/journals/corr/abs-1301-3618},
+  Link                     = {http://arxiv.org/abs/1301.3618},
+  Timestamp                = {Fri, 01 Feb 2013 13:30:47 +0100}
+}
+
+@Article{Cho2014,
+  Title                    = {Learning Phrase Representations using {RNN} Encoder-Decoder for Statistical
+Machine Translation},
+  Author                   = {Kyunghyun Cho and
+Bart van Merrienboer and
+{\c{C}}aglar G{\"{u}}l{\c{c}}ehre and
+Fethi Bougares and
+Holger Schwenk and
+Yoshua Bengio},
+  Journal                  = {CoRR},
+  Year                     = {2014},
+  Volume                   = {abs/1406.1078},
+
+  Bibsource                = {dblp computer science bibliography, http://dblp.org},
+  Biburl                   = {http://dblp.uni-trier.de/rec/bib/journals/corr/ChoMGBSB14},
+  Link                     = {http://arxiv.org/abs/1406.1078},
+  Timestamp                = {Wed, 02 Jul 2014 08:24:58 +0200}
+}
+
+@Article{Chung2015,
+  Title                    = {Gated Feedback Recurrent Neural Networks},
+  Author                   = {Junyoung Chung and
+{\c{C}}aglar G{\"{u}}l{\c{c}}ehre and
+KyungHyun Cho and
+Yoshua Bengio},
+  Journal                  = {CoRR},
+  Year                     = {2015},
+  Volume                   = {abs/1502.02367},
+
+  Bibsource                = {dblp computer science bibliography, http://dblp.org},
+  Biburl                   = {http://dblp.uni-trier.de/rec/bib/journals/corr/ChungGCB15},
+  Link                     = {http://arxiv.org/abs/1502.02367},
+  Timestamp                = {Mon, 02 Mar 2015 14:17:34 +0100}
+}
+
+@TechReport{Deng2014,
+  Title                    = {DEEP LEARNING: Methods and Applications},
+  Author                   = {Li Deng and Dong Yu},
+  Year                     = {2014},
+  Month                    = may,
+  Number                   = {MSR-TR-2014-21},
+
+  File                     = {:papers/Deng2014.pdf:PDF},
+  Link                     = {http://research.microsoft.com/apps/pubs/default.aspx?id=209355},
+  Publisher                = {NOW Publishers}
+}
+
+@Article{Dorronsoro1997,
+  Title                    = {Neural fraud detection in credit card operations},
+  Author                   = {Jos{\'{e}} R. Dorronsoro and
+Francisco Ginel and
+Carmen Sanchez and
+Carlos Santa Cruz},
+  Journal                  = {{IEEE} Transactions on Neural Networks},
+  Year                     = {1997},
+  Number                   = {4},
+  Pages                    = {827--834},
+  Volume                   = {8},
+
+  Bibsource                = {dblp computer science bibliography, http://dblp.org},
+  Biburl                   = {http://dblp.uni-trier.de/rec/bib/journals/tnn/DorronsoroGSC97},
+  Doi                      = {10.1109/72.595879},
+  Link                     = {http://dx.doi.org/10.1109/72.595879},
+  Timestamp                = {Tue, 05 Nov 2013 18:08:15 +0100}
+}
+
+@Article{Eigen2013,
+  Title                    = {Understanding Deep Architectures using a Recursive Convolutional Network},
+  Author                   = {David Eigen and
+Jason Tyler Rolfe and
+Rob Fergus and
+Yann LeCun},
+  Journal                  = {CoRR},
+  Year                     = {2013},
+  Volume                   = {abs/1312.1847},
+
+  Bibsource                = {dblp computer science bibliography, http://dblp.org},
+  Biburl                   = {http://dblp.uni-trier.de/rec/bib/journals/corr/EigenRFL13},
+  Link                     = {http://arxiv.org/abs/1312.1847},
+  Timestamp                = {Mon, 06 Jan 2014 15:10:41 +0100}
+}
+
+@Misc{Elk2013,
+  Title                    = {Learning meanings for sentences},
+
+  Author                   = {Charles Elkan},
+  HowPublished             = {\url{http://cseweb.ucsd.edu/~elkan/250B/}},
+  Month                    = feb,
+  Year                     = {2013},
+
+  File                     = {:papers/Elk2013.pdf:PDF}
+}
+
+@TechReport{Erhan2009,
+  Title                    = {Visualizing Higher-Layer Features of a Deep Network},
+  Author                   = {Erhan, Dumitru and Bengio, Yoshua and Courville, Aaron and Vincent, Pascal},
+  Institution              = {University of Montreal},
+  Year                     = {2009},
+  Month                    = jun,
+  Note                     = {Also presented at the ICML 2009 Workshop on Learning Feature Hierarchies, Montr{\'{e}}al, Canada.},
+  Number                   = {1341},
+
+  Abstract                 = {Deep architectures have demonstrated state-of-the-art results in a variety of
+settings, especially with vision datasets. Beyond the model definitions and the quantitative analyses, there is a need for qualitative comparisons of the solutions learned by various deep architectures. The goal of this paper is to find good qualitative interpretations of high level features represented by such models. To this end, we contrast and compare several techniques applied on Stacked Denoising Autoencoders and Deep Belief Networks, trained on several vision datasets. We show that, perhaps counter-intuitively, such interpretation is possible at the unit level, that it is simple to accomplish and that the results are consistent across various techniques. We hope that such techniques will allow researchers in deep architectures to understand more of how and why deep architectures work},
+  File                     = {:papers/Erhan2009.pdf:PDF}
+}
+
+@Misc{Erhan2010,
+  Title                    = {Why does unsupervised pre-training help deep learning?},
+
+  Author                   = {Dumitru Erhan and Aaron Courville and Yoshua Bengio and Pascal Vincent},
+  Year                     = {2010},
+
+  File                     = {:papers/Erhan2010.pdf:PDF}
+}
+
+@Article{Felleman1991,
+  Title                    = {Distributed hierarchical processing in the primate cerebral cortex},
+  Author                   = {Daniel J. Felleman and David C. Van Essen},
+  Journal                  = {Cereb Cortex},
+  Year                     = {1991},
+  Pages                    = {1--47},
+
+  File                     = {:papers/Felleman1991.pdf:PDF}
+}
+
+@Article{Girshick2013,
+  Title                    = {Rich feature hierarchies for accurate object detection and semantic
+ segmentation},
+  Author                   = {Ross B. Girshick and
+ Jeff Donahue and
+ Trevor Darrell and
+ Jitendra Malik},
+  Journal                  = {CoRR},
+  Year                     = {2013},
+  Volume                   = {abs/1311.2524},
+
+  Bibsource                = {dblp computer science bibliography, http://dblp.org},
+  Biburl                   = {http://dblp.uni-trier.de/rec/bib/journals/corr/GirshickDDM13},
+  File                     = {:papers/Girshick2013.pdf:PDF},
+  Timestamp                = {Tue, 03 Dec 2013 15:04:21 +0100},
+  Url                      = {http://arxiv.org/abs/1311.2524}
+}
+
+@InCollection{Goodfellow2009,
+  Title                    = {Measuring Invariances in Deep Networks},
+  Author                   = {Goodfellow, Ian and Lee, Honglak and Quoc V. Le and Andrew Saxe and Andrew Y. Ng},
+  Booktitle                = {Advances in Neural Information Processing Systems 22},
+  Publisher                = {Curran Associates, Inc.},
+  Year                     = {2009},
+  Editor                   = {Y. Bengio and D. Schuurmans and J.D. Lafferty and C.K.I. Williams and A. Culotta},
+  Pages                    = {646--654},
+
+  File                     = {:papers/Goodfellow2009.pdf:PDF},
+  Url                      = {http://papers.nips.cc/paper/3790-measuring-invariances-in-deep-networks.pdf}
+}
+
+@Article{Goodfellow2013a,
+  Title                    = {Joint Training Deep Boltzmann Machines for Classification},
+  Author                   = {Ian J. Goodfellow and
+Aaron C. Courville and
+Yoshua Bengio},
+  Journal                  = {CoRR},
+  Year                     = {2013},
+  Volume                   = {abs/1301.3568},
+
+  Bibsource                = {dblp computer science bibliography, http://dblp.org},
+  Biburl                   = {http://dblp.uni-trier.de/rec/bib/journals/corr/abs-1301-3568},
+  Link                     = {http://arxiv.org/abs/1301.3568},
+  Timestamp                = {Fri, 01 Feb 2013 13:30:47 +0100}
+}
+
+@Article{Goodfellow2015,
+  Title                    = {Challenges in representation learning: {A} report on three machine
+learning contests},
+  Author                   = {Ian J. Goodfellow and
+Dumitru Erhan and
+Pierre Luc Carrier and
+Aaron C. Courville and
+Mehdi Mirza and
+Benjamin Hamner and
+William Cukierski and
+Yichuan Tang and
+David Thaler and
+Dong{-}Hyun Lee and
+Yingbo Zhou and
+Chetan Ramaiah and
+Fangxiang Feng and
+Ruifan Li and
+Xiaojie Wang and
+Dimitris Athanasakis and
+John Shawe{-}Taylor and
+Maxim Milakov and
+John Park and
+Radu{-}Tudor Ionescu and
+Marius Popescu and
+Cristian Grozea and
+James Bergstra and
+Jingjing Xie and
+Lukasz Romaszko and
+Bing Xu and
+Zhang Chuang and
+Yoshua Bengio},
+  Journal                  = {Neural Networks},
+  Year                     = {2015},
+  Pages                    = {59--63},
+  Volume                   = {64},
+
+  Bibsource                = {dblp computer science bibliography, http://dblp.org},
+  Biburl                   = {http://dblp.uni-trier.de/rec/bib/journals/nn/GoodfellowECCMH15},
+  Doi                      = {10.1016/j.neunet.2014.09.005},
+  Link                     = {http://dx.doi.org/10.1016/j.neunet.2014.09.005},
+  Timestamp                = {Tue, 10 Mar 2015 08:46:24 +0100}
+}
+
+@Article{Goroshin2013,
+  Title                    = {Saturating Auto-Encoder},
+  Author                   = {Rostislav Goroshin and
+Yann LeCun},
+  Journal                  = {CoRR},
+  Year                     = {2013},
+  Volume                   = {abs/1301.3577},
+
+  Bibsource                = {dblp computer science bibliography, http://dblp.org},
+  Biburl                   = {http://dblp.uni-trier.de/rec/bib/journals/corr/abs-1301-3577},
+  Link                     = {http://arxiv.org/abs/1301.3577},
+  Timestamp                = {Fri, 01 Feb 2013 13:30:47 +0100}
+}
+
+@Article{Graves2013,
+  Title                    = {Generating Sequences With Recurrent Neural Networks},
+  Author                   = {Alex Graves},
+  Journal                  = {CoRR},
+  Year                     = {2013},
+  Volume                   = {abs/1308.0850},
+
+  Bibsource                = {dblp computer science bibliography, http://dblp.org},
+  Biburl                   = {http://dblp.uni-trier.de/rec/bib/journals/corr/Graves13},
+  File                     = {:papers/Graves2013.pdf:PDF},
+  Timestamp                = {Tue, 10 Dec 2013 12:03:02 +0100},
+  Url                      = {http://arxiv.org/abs/1308.0850}
+}
+
+@Book{Graves2012,
+  Title                    = {Supervised sequence labelling with recurrent neural networks},
+  Author                   = {Graves, Alex},
+  Publisher                = {Springer},
+  Year                     = {2012},
+  Volume                   = {385},
+
+  File                     = {:papers/Graves2012.pdf:PDF}
+}
+
+@TechReport{Gulcehre2013,
+  Title                    = {Knowledge matters: Importance of prior information for optimization},
+  Author                   = {Gulcehre, Caglar and Bengio, Yoshua},
+  Year                     = {2013},
+
+  Archiveprefix            = {arXiv},
+  Arxivid                  = {arXiv:1301.4083}
+}
+
+@Article{Hinton2011,
+  Title                    = {A better way to learn features: technical perspective},
+  Author                   = {Geoffrey E. Hinton},
+  Journal                  = {Commun. {ACM}},
+  Year                     = {2011},
+  Number                   = {10},
+  Pages                    = {94},
+  Volume                   = {54},
+
+  Bibsource                = {dblp computer science bibliography, http://dblp.org},
+  Biburl                   = {http://dblp.uni-trier.de/rec/bib/journals/cacm/Hinton11},
+  Doi                      = {10.1145/2001269.2001294},
+  Link                     = {http://doi.acm.org/10.1145/2001269.2001294},
+  Timestamp                = {Mon, 26 Sep 2011 07:56:47 +0200}
+}
+
+@Article{Hinton2007,
+  Title                    = {Learning multiple layers of representation},
+  Author                   = {Hinton, Geoffrey E.},
+  Journal                  = {Trends in Cognitive Sciences},
+  Year                     = {2007},
+  Pages                    = {428--434},
+  Volume                   = {11},
+
+  Abstract                 = {To achieve its impressive performance in tasks such as speech perception or object recognition, the brain extracts multiple levels of representation from the sensory input. Backpropagation was the first computationally efficient model of how neural networks could learn multiple layers of representation, but it required labeled training data and it did not work well in deep networks. The limitations of backpropagation learning can now be overcome by using multilayer neural networks that contain top-down connections and training them to generate sensory data rather than to classify it. Learning multilayer generative models might seem difficult, but a recent discovery makes it easy to learn nonlinear distributed representations one layer at a time.},
+  Added-at                 = {2009-06-26T15:25:19.000+0200},
+  Biburl                   = {http://www.bibsonomy.org/bibtex/2e04a4837f839f9de31d84fd0a0896798/butz},
+  Description              = {diverse cognitive systems bib},
+  File                     = {:papers/Hinton2007.pdf:PDF},
+  Interhash                = {6b17388236cbabbcdd76f466b0ce22a3},
+  Intrahash                = {e04a4837f839f9de31d84fd0a0896798},
+  Keywords                 = {imported},
+  Owner                    = {butz},
+  Timestamp                = {2009-06-26T15:25:34.000+0200}
+}
+
+@InProceedings{Hinton2007a,
+  Title                    = {To Recognize Shapes First Learn to Generate Images},
+  Author                   = {Hinton, Geoffrey E.},
+  Booktitle                = {Computational Neuroscience: Theoretical Insights into Brain Function},
+  Year                     = {2007},
+  Publisher                = {Elsevier},
+
+  Abstract                 = {The uniformity of the cortical architecture and the ability of functions to move to
+diﬀerent areas of cortex following early damage strongly suggests that there is a single
+basic learning algorithm for extracting underlying structure from richly-structured, high-
+dimensional sensory data. There have been many attempts to design such an algorithm,
+but until recently they all suﬀered from serious computational weaknesses. This chapter
+describes several of the proposed algorithms and shows how they can be combined to
+produce hybrid methods that work eﬃciently in networks with many layers and millions
+of adaptive connections.},
+  Added-at                 = {2009-06-02T18:51:39.000+0200},
+  Biburl                   = {http://www.bibsonomy.org/bibtex/26f1036c425a1074ef9663d7169893381/rcreswick},
+  Citeulike-article-id     = {2599858},
+  File                     = {:papers/Hinton2007a.pdf:PDF},
+  Interhash                = {eddfdb0dfb34f6b81a06da1e5d1d0b16},
+  Intrahash                = {6f1036c425a1074ef9663d7169893381},
+  Keywords                 = {learning},
+  Posted-at                = {2008-03-26 22:02:42},
+  Priority                 = {2},
+  Timestamp                = {2009-06-03T14:47:16.000+0200}
+}
+
+@InProceedings{Hinton1986a,
+  Title                    = {Learning Distributed Representations of Concepts},
+  Author                   = {G. E. Hinton},
+  Booktitle                = {Proceedings of the Eighth Annual Conference of the
+ Cognitive Science Society},
+  Year                     = {1986},
+
+  Address                  = {Amherst, MA},
+  Pages                    = {1--12},
+
+  File                     = {:papers/Hinton1986a.pdf:PDF}
+}
+
+@InCollection{Hinton1986,
+  Title                    = {Parallel Distributed Processing: Explorations in the Microstructure of Cognition, Vol. 1},
+  Author                   = {Hinton, G. E. and McClelland, J. L. and Rumelhart, D. E.},
+  Publisher                = {MIT Press},
+  Year                     = {1986},
+
+  Address                  = {Cambridge, MA, USA},
+  Chapter                  = {Distributed Representations},
+  Editor                   = {Rumelhart, David E. and McClelland, James L. and PDP Research Group, CORPORATE},
+  Pages                    = {77--109},
+
+  Acmid                    = {104287},
+  File                     = {:papers/Hinton1986.pdf:PDF},
+  ISBN                     = {0-262-68053-X},
+  Numpages                 = {33},
+  Url                      = {http://dl.acm.org/citation.cfm?id=104279.104287}
+}
+
+@Article{Hinton2006,
+  Title                    = {A Fast Learning Algorithm for Deep Belief Nets.},
+  Author                   = {Hinton, Geoffrey E. and Osindero, Simon and Teh, Yee Whye},
+  Journal                  = {Neural Computation},
+  Year                     = {2006},
+  Number                   = {7},
+  Pages                    = {1527--1554},
+  Volume                   = {18},
+
+  Added-at                 = {2011-11-17T00:00:00.000+0100},
+  Biburl                   = {http://www.bibsonomy.org/bibtex/254757ace22a75abbfab9b3f83b5cad0b/dblp},
+  Doi                      = {10.1162/neco.2006.18.7.1527},
+  File                     = {:papers/Hinton2006.pdf:PDF},
+  Interhash                = {e20c213844c6c160f4bcc59cfcdc845d},
+  Intrahash                = {54757ace22a75abbfab9b3f83b5cad0b},
+  Keywords                 = {dblp},
+  Timestamp                = {2011-11-18T11:34:16.000+0100},
+  Url                      = {http://dblp.uni-trier.de/db/journals/neco/neco18.html#HintonOT06}
+}
+
+@Article{Hinton2006a,
+  Title                    = {Reducing the dimensionality of data with neural networks},
+  Author                   = {Hinton, G E and Salakhutdinov, R R},
+  Journal                  = {Science},
+  Year                     = {2006},
+
+  Month                    = Jul,
+  Number                   = {5786},
+  Pages                    = {504--507},
+  Volume                   = {313},
+
+  Abstract                 = {High-dimensional data can be converted to low-dimensional codes by training a multilayer neural network with a small central layer to reconstruct high-dimensional input vectors. Gradient descent can be used for fine-tuning the weights in such "autoencoder" networks, but this works well only if the initial weights are close to a good solution. We describe an effective way of initializing the weights that allows deep autoencoder networks to learn low-dimensional codes that work much better than principal components analysis as a tool to reduce the dimensionality of data.},
+  Added-at                 = {2008-07-15T10:05:18.000+0200},
+  Biburl                   = {http://www.bibsonomy.org/bibtex/2135bbce97b449ddf5fca7be88102b53c/tmalsburg},
+  Description              = {Reducing the dimensionality of data with neural ne...[Science. 2006] - PubMed Result},
+  Doi                      = {10.1126/science.1127647},
+  File                     = {Hinton2006a.pdf:papers/Hinton2006a.pdf:PDF},
+  Interhash                = {019918b82518b74f443a22dc58a0117f},
+  Intrahash                = {135bbce97b449ddf5fca7be88102b53c},
+  Keywords                 = {dimensionalityreduction neuralnetworks parameterestimation},
+  Pmid                     = {16873662},
+  Timestamp                = {2008-07-15T10:05:18.000+0200},
+  Url                      = {http://www.ncbi.nlm.nih.gov/sites/entrez?db=pubmed&uid=16873662&cmd=showdetailview&indexed=google}
+}
+
+@Article{Hinton2012a,
+  Title                    = {Improving neural networks by preventing co-adaptation of feature detectors},
+  Author                   = {Geoffrey E. Hinton and
+Nitish Srivastava and
+Alex Krizhevsky and
+Ilya Sutskever and
+Ruslan Salakhutdinov},
+  Journal                  = {CoRR},
+  Year                     = {2012},
+  Volume                   = {abs/1207.0580},
+
+  Bibsource                = {dblp computer science bibliography, http://dblp.org},
+  Biburl                   = {http://dblp.uni-trier.de/rec/bib/journals/corr/abs-1207-0580},
+  File                     = {:papers/Hinton2012a.pdf:PDF},
+  Link                     = {http://arxiv.org/abs/1207.0580},
+  Timestamp                = {Wed, 10 Oct 2012 21:28:53 +0200}
+}
+
+@Article{Hochreiter1997,
+  Title                    = {Long Short-Term Memory},
+  Author                   = {Sepp Hochreiter and
+J{\"{u}}rgen Schmidhuber},
+  Journal                  = {Neural Computation},
+  Year                     = {1997},
+  Number                   = {8},
+  Pages                    = {1735--1780},
+  Volume                   = {9},
+
+  Bibsource                = {dblp computer science bibliography, http://dblp.org},
+  Biburl                   = {http://dblp.uni-trier.de/rec/bib/journals/neco/HochreiterS97},
+  Doi                      = {10.1162/neco.1997.9.8.1735},
+  File                     = {:papers/Hochreiter1997.pdf:PDF},
+  Link                     = {http://dx.doi.org/10.1162/neco.1997.9.8.1735},
+  Timestamp                = {Thu, 17 Nov 2011 16:24:23 +0100}
+}
+
+@Article{Hurri2003,
+  Title                    = {Simple-cell-like receptive fields maximize temporal coherence in natural video.},
+  Author                   = {Hurri, J. and Hyv\"{a}rinen, A.},
+  Journal                  = {Neural Comput},
+  Year                     = {2003},
+
+  Month                    = mar,
+  Number                   = {3},
+  Pages                    = {663--691},
+  Volume                   = {15},
+
+  Abstract                 = {Recently, statistical models of natural images have shown the emergence of several properties of the visual cortex. Most models have considered the nongaussian properties of static image patches, leading to sparse coding or independent component analysis. Here we consider the basic time dependencies of image sequences instead of their nongaussianity. We show that simple-cell-type receptive fields emerge when temporal response strength correlation is maximized for natural image sequences. Thus, temporal response strength correlation, which is a nonlinear measure of temporal coherence, provides an alternative to sparseness in modeling simple-cell receptive field properties. Our results also suggest an interpretation of simple cells in terms of invariant coding principles, which have previously been used to explain complex-cell receptive fields.},
+  Address                  = {Neural Networks Research Centre, Helsinki University of Technology, 02015 HUT, Finland. jarmo.hurri@hut.fi},
+  Citeulike-article-id     = {1074651},
+  Citeulike-linkout-0      = {http://dx.doi.org/10.1162/089976603321192121},
+  Citeulike-linkout-1      = {http://view.ncbi.nlm.nih.gov/pubmed/12620162},
+  Citeulike-linkout-2      = {http://www.hubmed.org/display.cgi?uids=12620162},
+  Doi                      = {10.1162/089976603321192121},
+  File                     = {:papers/Hurri2003.pdf:PDF},
+  ISSN                     = {0899-7667},
+  Keywords                 = {ica, slowfeatureanalysis, slowness\_definition, sparse-coding, video},
+  Pmid                     = {12620162},
+  Posted-at                = {2007-01-29 16:45:15},
+  Priority                 = {2}
+}
+
+@Article{Huval2013,
+  Title                    = {Deep learning for class-generic object detection},
+  Author                   = {Brody Huval and
+Adam Coates and
+Andrew Y. Ng},
+  Journal                  = {CoRR},
+  Year                     = {2013},
+  Volume                   = {abs/1312.6885},
+
+  Bibsource                = {dblp computer science bibliography, http://dblp.org},
+  Biburl                   = {http://dblp.uni-trier.de/rec/bib/journals/corr/HuvalCN13},
+  Link                     = {http://arxiv.org/abs/1312.6885},
+  Timestamp                = {Mon, 06 Jan 2014 15:10:41 +0100}
+}
+
+@Article{Jain2014,
+  Title                    = {MoDeep: {A} Deep Learning Framework Using Motion Features for Human
+Pose Estimation},
+  Author                   = {Arjun Jain and
+Jonathan Tompson and
+Yann LeCun and
+Christoph Bregler},
+  Journal                  = {CoRR},
+  Year                     = {2014},
+  Volume                   = {abs/1409.7963},
+
+  Bibsource                = {dblp computer science bibliography, http://dblp.org},
+  Biburl                   = {http://dblp.uni-trier.de/rec/bib/journals/corr/JainTLB14},
+  Link                     = {http://arxiv.org/abs/1409.7963},
+  Timestamp                = {Wed, 01 Oct 2014 15:00:04 +0200}
+}
+
+@Article{Jha2012,
+  Title                    = {Employing transaction aggregation strategy to detect credit card fraud},
+  Author                   = {Sanjeev Jha and
+Montserrat Guillen and
+J. Christopher Westland},
+  Journal                  = {Expert Syst. Appl.},
+  Year                     = {2012},
+  Number                   = {16},
+  Pages                    = {12650--12657},
+  Volume                   = {39},
+
+  Bibsource                = {dblp computer science bibliography, http://dblp.org},
+  Biburl                   = {http://dblp.uni-trier.de/rec/bib/journals/eswa/JhaGW12},
+  Doi                      = {10.1016/j.eswa.2012.05.018},
+  Link                     = {http://dx.doi.org/10.1016/j.eswa.2012.05.018},
+  Timestamp                = {Tue, 21 Aug 2012 15:34:55 +0200}
+}
+
+@Article{Kingma2013,
+  Title                    = {Auto-Encoding Variational {Bayes}.},
+  Author                   = {Kingma, Diederik P. and Welling, Max},
+  Journal                  = {CoRR},
+  Year                     = {2013},
+  Volume                   = {abs/1312.6114},
+
+  Added-at                 = {2014-01-06T00:00:00.000+0100},
+  Biburl                   = {http://www.bibsonomy.org/bibtex/2486ad13a443259d137cb57be1dc77002/dblp},
+  Ee                       = {http://arxiv.org/abs/1312.6114},
+  File                     = {:papers/Kingma2013.pdf:PDF},
+  Interhash                = {85731e0fbdb10b8543ea9f55301b37a5},
+  Intrahash                = {486ad13a443259d137cb57be1dc77002},
+  Keywords                 = {dblp},
+  Timestamp                = {2014-01-07T11:34:31.000+0100},
+  Url                      = {http://dblp.uni-trier.de/db/journals/corr/corr1312.html#KingmaW13}
+}
+
+@InProceedings{Larochelle2008,
+  Title                    = {Classification Using Discriminative Restricted Boltzmann Machines},
+  Author                   = {Larochelle, Hugo and Bengio, Yoshua},
+  Booktitle                = {Proceedings of the 25\textsuperscript{th} International Conference on Machine Learning},
+  Year                     = {2008},
+
+  Address                  = {New York, NY, USA},
+  Pages                    = {536--543},
+  Publisher                = {ACM},
+  Series                   = {ICML '08},
+
+  Acmid                    = {1390224},
+  Doi                      = {10.1145/1390156.1390224},
+  File                     = {:papers/Larochelle2008.pdf:PDF},
+  ISBN                     = {978-1-60558-205-4},
+  Location                 = {Helsinki, Finland},
+  Numpages                 = {8}
+}
+
+@Article{LeCun1998,
+  Title                    = {Gradient-Based Learning Applied to Document Recognition},
+  Author                   = {LeCun, Y. and Bottou, L. and Bengio, Y. and Haffner, P.},
+  Journal                  = {Proceedings of the IEEE},
+  Year                     = {1998},
+
+  Month                    = nov,
+  Number                   = {11},
+  Pages                    = {2278--2324},
+  Volume                   = {86},
+
+  File                     = {:papers/LeCun1998.pdf:PDF},
+  Original                 = {orig/lecun-98.ps.gz}
+}
+
+@Article{Lee2010,
+  Title                    = {Empirical analysis of online auction fraud: Credit card phantom transactions},
+  Author                   = {Byungtae Lee and
+Hyungjun Cho and
+Myungsin Chae and
+Seonyoung Shim},
+  Journal                  = {Expert Syst. Appl.},
+  Year                     = {2010},
+  Number                   = {4},
+  Pages                    = {2991--2999},
+  Volume                   = {37},
+
+  Bibsource                = {dblp computer science bibliography, http://dblp.org},
+  Biburl                   = {http://dblp.uni-trier.de/rec/bib/journals/eswa/LeeCCS10},
+  Doi                      = {10.1016/j.eswa.2009.09.034},
+  Link                     = {http://dx.doi.org/10.1016/j.eswa.2009.09.034},
+  Timestamp                = {Mon, 03 May 2010 12:28:52 +0200}
+}
+
+@Article{Lee2013,
+  Title                    = {A data mining approach using transaction patterns for card fraud detection},
+  Author                   = {Chae Chang Lee and
+Ji Won Yoon},
+  Journal                  = {CoRR},
+  Year                     = {2013},
+  Volume                   = {abs/1306.5547},
+
+  Bibsource                = {dblp computer science bibliography, http://dblp.org},
+  Biburl                   = {http://dblp.uni-trier.de/rec/bib/journals/corr/LeeY13},
+  Link                     = {http://arxiv.org/abs/1306.5547},
+  Timestamp                = {Mon, 01 Jul 2013 20:31:27 +0200}
+}
+
+@Article{Lee2011,
+  Title                    = {Unsupervised learning of hierarchical representations with convolutional
+deep belief networks},
+  Author                   = {Honglak Lee and
+Roger B. Grosse and
+Rajesh Ranganath and
+Andrew Y. Ng},
+  Journal                  = {Commun. {ACM}},
+  Year                     = {2011},
+  Number                   = {10},
+  Pages                    = {95--103},
+  Volume                   = {54},
+
+  Bibsource                = {dblp computer science bibliography, http://dblp.org},
+  Biburl                   = {http://dblp.uni-trier.de/rec/bib/journals/cacm/LeeGRN11},
+  Doi                      = {10.1145/2001269.2001295},
+  Link                     = {http://doi.acm.org/10.1145/2001269.2001295},
+  Timestamp                = {Mon, 06 Jan 2014 21:13:41 +0100}
+}
+
+@Article{Lee1998,
+  Title                    = {The role of the primary visual cortex in higher level vision},
+  Author                   = {Tai Sing Lee and David Mumford and Richard Romero and Victor A.F. Lamme},
+  Journal                  = {Vision Research },
+  Year                     = {1998},
+  Number                   = {15–16},
+  Pages                    = {2429--2454},
+  Volume                   = {38},
+
+  Abstract                 = {In the classical feed-forward, modular view of visual processing, the primary visual cortex (area V1) is a module that serves to extract local features such as edges and bars. Representation and recognition of objects are thought to be functions of higher extrastriate cortical areas. This paper presents neurophysiological data that show the later part of \{V1\} neurons{\textquoteright} responses reflecting higher order perceptual computations related to Ullman{\textquoteright}s (Cognition 1984;18:97--159) visual routines and Marr{\textquoteright}s (Vision NJ: Freeman 1982) full primal sketch, 212D sketch and 3D model. Based on theoretical reasoning and the experimental evidence, we propose a possible reinterpretation of the functional role of V1. In this framework, because of \{V1\} neurons{\textquoteright} precise encoding of orientation and spatial information, higher level perceptual computations and representations that involve high resolution details, fine geometry and spatial precision would necessarily involve \{V1\} and be reflected in the later part of its neurons{\textquoteright} activities. },
+  Doi                      = {10.1016/S0042-6989(97)00464-1},
+  File                     = {:papers/Lee1998.pdf:PDF},
+  ISSN                     = {0042-6989},
+  Keywords                 = {Figure-ground segregation},
+  Url                      = {http://www.sciencedirect.com/science/article/pii/S0042698997004641}
+}
+
+@Article{Mathieu2013,
+  Title                    = {Fast Training of Convolutional Networks through {FFT}s},
+  Author                   = {Micha{\"{e}}l Mathieu and
+Mikael Henaff and
+Yann LeCun},
+  Journal                  = {CoRR},
+  Year                     = {2013},
+  Volume                   = {abs/1312.5851},
+
+  Bibsource                = {dblp computer science bibliography, http://dblp.org},
+  Biburl                   = {http://dblp.uni-trier.de/rec/bib/journals/corr/MathieuHL13},
+  Link                     = {http://arxiv.org/abs/1312.5851},
+  Timestamp                = {Mon, 06 Jan 2014 15:10:41 +0100}
+}
+
+@Misc{Mehta2014,
+  Title                    = {{An exact mapping between the Variational Renormalization Group and Deep Learning}},
+
+  Author                   = {Mehta, Pankaj and Schwab, David J.},
+  Month                    = oct,
+  Year                     = {2014},
+
+  Abstract                 = {{Deep learning is a broad set of techniques that uses multiple layers of
+representation to automatically learn relevant features directly from
+structured data. Recently, such techniques have yielded record-breaking results
+on a diverse set of difficult machine learning tasks in computer vision, speech
+recognition, and natural language processing. Despite the enormous success of
+deep learning, relatively little is understood theoretically about why these
+techniques are so successful at feature learning and compression. Here, we show
+that deep learning is intimately related to one of the most important and
+successful techniques in theoretical physics, the renormalization group (RG).
+RG is an iterative coarse-graining scheme that allows for the extraction of
+relevant features (i.e. operators) as a physical system is examined at
+different length scales. We construct an exact mapping from the variational
+renormalization group, first introduced by Kadanoff, and deep learning
+architectures based on Restricted Boltzmann Machines (RBMs). We illustrate
+these ideas using the nearest-neighbor Ising Model in one and two-dimensions.
+Our results suggests that deep learning algorithms may be employing a
+generalized RG-like scheme to learn relevant features from data.}},
+  Archiveprefix            = {arXiv},
+  Citeulike-article-id     = {13398846},
+  Citeulike-linkout-0      = {http://arxiv.org/abs/1410.3831},
+  Citeulike-linkout-1      = {http://arxiv.org/pdf/1410.3831},
+  Day                      = {14},
+  Eprint                   = {1410.3831},
+  File                     = {:papers/Mehta2014.pdf:PDF},
+  Keywords                 = {boltzmann\_learning, deep\_learning, renormalization\_group, rg},
+  Posted-at                = {2014-10-16 11:48:39},
+  Priority                 = {2},
+  Url                      = {http://arxiv.org/abs/1410.3831}
+}
+
+@InCollection{Mikolov2013,
+  Title                    = {Distributed Representations of Words and Phrases and their Compositionality},
+  Author                   = {Mikolov, Tomas and Sutskever, Ilya and Chen, Kai and Corrado, Greg S and Dean, Jeff},
+  Booktitle                = {Advances in Neural Information Processing Systems 26},
+  Publisher                = {Curran Associates, Inc.},
+  Year                     = {2013},
+  Editor                   = {C.J.C. Burges and L. Bottou and M. Welling and Z. Ghahramani and K.Q. Weinberger},
+  Pages                    = {3111--3119},
+
+  Bdsk-url-1               = {http://papers.nips.cc/paper/5021-distributed-representations-of-words-and-phrases-and-their-compositionality.pdf},
+  File                     = {:papers/Mikolov2013.pdf:PDF},
+  Url                      = {http://papers.nips.cc/paper/5021-distributed-representations-of-words-and-phrases-and-their-compositionality.pdf}
+}
+
+@Article{Olshausen,
+  Title                    = {Emergence of Simple-Cell Receptive Field Properties by Learning a Sparse Code for Natural Images},
+  Author                   = {Olshausen, B. and Field, D.},
+  Journal                  = {Nature},
+  Pages                    = {607--609},
+  Volume                   = {381},
+
+  Added-at                 = {2011-05-09T23:10:52.000+0200},
+  Biburl                   = {http://www.bibsonomy.org/bibtex/23a4d4ad41633816ff7e0fccabfcb45fd/josephausterwei},
+  File                     = {:papers/Olshausen.pdf:PDF},
+  Interhash                = {62f8f2a3d7411ecc0751ff870a07afc1},
+  Intrahash                = {3a4d4ad41633816ff7e0fccabfcb45fd},
+  Keyword                  = {imported},
+  Timestamp                = {2011-05-10T10:42:42.000+0200}
+}
+
+@Article{Pascanu2013,
+  Title                    = {Natural Gradient Revisited},
+  Author                   = {Razvan Pascanu and
+Yoshua Bengio},
+  Journal                  = {CoRR},
+  Year                     = {2013},
+  Volume                   = {abs/1301.3584},
+
+  Bibsource                = {dblp computer science bibliography, http://dblp.org},
+  Biburl                   = {http://dblp.uni-trier.de/rec/bib/journals/corr/abs-1301-3584},
+  Link                     = {http://arxiv.org/abs/1301.3584},
+  Timestamp                = {Fri, 01 Feb 2013 13:30:47 +0100}
+}
+
+@InProceedings{Poultney2006,
+  Title                    = {Efficient learning of sparse representations with an energy-based model},
+  Author                   = {Christopher Poultney and Sumit Chopra and Yann Lecun},
+  Booktitle                = {Advances in Neural Information Processing Systems (NIPS 2006},
+  Year                     = {2006},
+  Publisher                = {MIT Press},
+
+  File                     = {:papers/Poultney2006.pdf:PDF},
+  Tags                     = {autoencoder}
+}
+
+@Article{Rivest2014,
+  Title                    = {Conditioning and time representation in long short-term memory networks},
+  Author                   = {Fran{\c{c}}ois Rivest and
+John Kalaska and
+Yoshua Bengio},
+  Journal                  = {Biological Cybernetics},
+  Year                     = {2014},
+  Number                   = {1},
+  Pages                    = {23--48},
+  Volume                   = {108},
+
+  Bibsource                = {dblp computer science bibliography, http://dblp.org},
+  Biburl                   = {http://dblp.uni-trier.de/rec/bib/journals/bc/RivestKB14},
+  Doi                      = {10.1007/s00422-013-0575-1},
+  Link                     = {http://dx.doi.org/10.1007/s00422-013-0575-1},
+  Timestamp                = {Fri, 14 Feb 2014 20:12:53 +0100}
+}
+
+@InCollection{Rumelhart1988,
+  Title                    = {Neurocomputing: Foundations of Research},
+  Author                   = {Rumelhart, David E. and Hinton, Geoffrey E. and Williams, Ronald J.},
+  Publisher                = {MIT Press},
+  Year                     = {1988},
+
+  Address                  = {Cambridge, MA, USA},
+  Chapter                  = {Learning Representations by Back-propagating Errors},
+  Editor                   = {Anderson, James A. and Rosenfeld, Edward},
+  Pages                    = {696--699},
+
+  Acmid                    = {104451},
+  File                     = {:papers/Rumelhart1988.pdf:PDF},
+  ISBN                     = {0-262-01097-6},
+  Numpages                 = {4},
+  Url                      = {http://dl.acm.org/citation.cfm?id=65669.104451}
+}
+
+@InProceedings{Salakhutdinov2009,
+  Title                    = {Deep {B}oltzmann Machines},
+  Author                   = {Ruslan Salakhutdinov and Geoffrey Hinton},
+  Booktitle                = {Proceedings of the International Conference on Artificial
+ Intelligence and Statistics},
+  Year                     = {2009},
+  Pages                    = {448-455},
+  Volume                   = {5},
+
+  File                     = {:papers/dbm.pdf:PDF},
+  Tags                     = {boltzman}
+}
+
+@Article{Salakhutdinov2012,
+  Title                    = {An Efficient Learning Procedure for Deep Boltzmann Machines},
+  Author                   = {Ruslan Salakhutdinov and
+Geoffrey E. Hinton},
+  Journal                  = {Neural Computation},
+  Year                     = {2012},
+  Number                   = {8},
+  Pages                    = {1967--2006},
+  Volume                   = {24},
+
+  Bibsource                = {dblp computer science bibliography, http://dblp.org},
+  Biburl                   = {http://dblp.uni-trier.de/rec/bib/journals/neco/SalakhutdinovH12},
+  Doi                      = {10.1162/NECO_a_00311},
+  Link                     = {http://dx.doi.org/10.1162/NECO_a_00311},
+  Timestamp                = {Tue, 28 Aug 2012 13:21:16 +0200}
+}
+
+@Article{Sarikaya2014,
+  Title                    = {Application of Deep Belief Networks for Natural Language Understanding},
+  Author                   = {Ruhi Sarikaya and
+Geoffrey E. Hinton and
+Anoop Deoras},
+  Journal                  = {{IEEE/ACM} Transactions on Audio, Speech {\&} Language Processing},
+  Year                     = {2014},
+  Number                   = {4},
+  Pages                    = {778--784},
+  Volume                   = {22},
+
+  Bibsource                = {dblp computer science bibliography, http://dblp.org},
+  Biburl                   = {http://dblp.uni-trier.de/rec/bib/journals/taslp/SarikayaHD14},
+  Doi                      = {10.1109/TASLP.2014.2303296},
+  File                     = {:papers/Sarikaya2014.pdf:PDF},
+  Link                     = {http://dx.doi.org/10.1109/TASLP.2014.2303296},
+  Timestamp                = {Wed, 14 May 2014 10:08:05 +0200}
+}
+
+@InCollection{Schmah2009,
+  Title                    = {Generative versus discriminative training of RBMs for classification of fMRI images},
+  Author                   = {Tanya Schmah and Geoffrey E. Hinton and Steven L. Small and Stephen Strother and Richard S. Zemel},
+  Booktitle                = {Advances in Neural Information Processing Systems 21},
+  Publisher                = {Curran Associates, Inc.},
+  Year                     = {2009},
+  Editor                   = {D. Koller and D. Schuurmans and Y. Bengio and L. Bottou},
+  Pages                    = {1409--1416},
+
+  File                     = {:papers/Schmah2009.pdf:PDF},
+  Url                      = {http://papers.nips.cc/paper/3577-generative-versus-discriminative-training-of-rbms-for-classification-of-fmri-images.pdf}
+}
+
+@Article{Schmidhuber2014,
+  Title                    = {Deep Learning in Neural Networks: An Overview},
+  Author                   = {J{\"{u}}rgen Schmidhuber},
+  Journal                  = {CoRR},
+  Year                     = {2014},
+  Volume                   = {abs/1404.7828},
+
+  Bibsource                = {dblp computer science bibliography, http://dblp.org},
+  Biburl                   = {http://dblp.uni-trier.de/rec/bib/journals/corr/Schmidhuber14},
+  File                     = {:papers/Schmidhuber2014.pdf:PDF},
+  Link                     = {http://arxiv.org/abs/1404.7828},
+  Timestamp                = {Thu, 01 May 2014 14:56:20 +0200}
+}
+
+@Article{Sermanet2012,
+  Title                    = {Pedestrian Detection with Unsupervised Multi-Stage Feature Learning},
+  Author                   = {Pierre Sermanet and
+Koray Kavukcuoglu and
+Soumith Chintala and
+Yann LeCun},
+  Journal                  = {CoRR},
+  Year                     = {2012},
+  Volume                   = {abs/1212.0142},
+
+  Bibsource                = {dblp computer science bibliography, http://dblp.org},
+  Biburl                   = {http://dblp.uni-trier.de/rec/bib/journals/corr/abs-1212-0142},
+  Link                     = {http://arxiv.org/abs/1212.0142},
+  Timestamp                = {Wed, 02 Jan 2013 09:49:04 +0100}
+}
+
+@InCollection{Smolensky1986,
+  Title                    = {Parallel Distributed Processing: Explorations in the Microstructure of Cognition, Vol. 1},
+  Author                   = {Smolensky, P.},
+  Publisher                = {MIT Press},
+  Year                     = {1986},
+
+  Address                  = {Cambridge, MA, USA},
+  Chapter                  = {Information Processing in Dynamical Systems: Foundations of Harmony Theory},
+  Editor                   = {Rumelhart, David E. and McClelland, James L. and PDP Research Group, CORPORATE},
+  Pages                    = {194--281},
+
+  Acmid                    = {104290},
+  File                     = {:papers/Smolensky1986.pdf:PDF},
+  ISBN                     = {0-262-68053-X},
+  Numpages                 = {88},
+  Url                      = {http://dl.acm.org/citation.cfm?id=104279.104290}
+}
+
+@Article{Srivastava2014,
+  Title                    = {Dropout: a simple way to prevent neural networks from overfitting},
+  Author                   = {Nitish Srivastava and
+Geoffrey E. Hinton and
+Alex Krizhevsky and
+Ilya Sutskever and
+Ruslan Salakhutdinov},
+  Journal                  = {Journal of Machine Learning Research},
+  Year                     = {2014},
+  Number                   = {1},
+  Pages                    = {1929--1958},
+  Volume                   = {15},
+
+  Bibsource                = {dblp computer science bibliography, http://dblp.org},
+  Biburl                   = {http://dblp.uni-trier.de/rec/bib/journals/jmlr/SrivastavaHKSS14},
+  Link                     = {http://dl.acm.org/citation.cfm?id=2670313},
+  Timestamp                = {Sun, 05 Oct 2014 12:54:58 +0200}
+}
+
+@Article{Srivastava2015,
+  Title                    = {Unsupervised Learning of Video Representations using {LS}TMs},
+  Author                   = {Nitish Srivastava and
+ Elman Mansimov and
+ Ruslan Salakhutdinov},
+  Journal                  = {CoRR},
+  Year                     = {2015},
+  Volume                   = {abs/1502.04681},
+
+  Bibsource                = {dblp computer science bibliography, http://dblp.org},
+  Biburl                   = {http://dblp.uni-trier.de/rec/bib/journals/corr/SrivastavaMS15},
+  File                     = {:papers/Srivastava2015.pdf:PDF},
+  Timestamp                = {Mon, 02 Mar 2015 14:17:34 +0100},
+  Url                      = {http://arxiv.org/abs/1502.04681}
+}
+
+@Article{Sutskever2014,
+  Title                    = {Sequence to Sequence Learning with Neural Networks},
+  Author                   = {Ilya Sutskever and
+ Oriol Vinyals and
+ Quoc V. Le},
+  Journal                  = {CoRR},
+  Year                     = {2014},
+  Volume                   = {abs/1409.3215},
+
+  Bibsource                = {dblp computer science bibliography, http://dblp.org},
+  Biburl                   = {http://dblp.uni-trier.de/rec/bib/journals/corr/SutskeverVL14},
+  File                     = {:papers/Sutskever2014.pdf:PDF},
+  Timestamp                = {Wed, 01 Oct 2014 15:00:04 +0200},
+  Url                      = {http://arxiv.org/abs/1409.3215}
+}
+
+@Article{Szegedy2013,
+  Title                    = {Intriguing properties of neural networks},
+  Author                   = {Christian Szegedy and
+ Wojciech Zaremba and
+ Ilya Sutskever and
+ Joan Bruna and
+ Dumitru Erhan and
+ Ian J. Goodfellow and
+ Rob Fergus},
+  Journal                  = {CoRR},
+  Year                     = {2013},
+  Volume                   = {abs/1312.6199},
+
+  Bibsource                = {dblp computer science bibliography, http://dblp.org},
+  Biburl                   = {http://dblp.uni-trier.de/rec/bib/journals/corr/SzegedyZSBEGF13},
+  File                     = {:papers/Szegedy2013.pdf:PDF},
+  Timestamp                = {Mon, 06 Jan 2014 15:10:41 +0100},
+  Url                      = {http://arxiv.org/abs/1312.6199}
+}
+
+@Article{Taylor2011,
+  Title                    = {Two Distributed-State Models For Generating High-Dimensional Time
+Series},
+  Author                   = {Graham W. Taylor and
+Geoffrey E. Hinton and
+Sam T. Roweis},
+  Journal                  = {Journal of Machine Learning Research},
+  Year                     = {2011},
+  Pages                    = {1025--1068},
+  Volume                   = {12},
+
+  Bibsource                = {dblp computer science bibliography, http://dblp.org},
+  Biburl                   = {http://dblp.uni-trier.de/rec/bib/journals/jmlr/TaylorHR11},
+  Link                     = {http://dl.acm.org/citation.cfm?id=2021035},
+  Timestamp                = {Thu, 01 Dec 2011 14:06:59 +0100}
+}
+
+@Article{Vasilache2014,
+  Title                    = {Fast Convolutional Nets With fbfft: {A GPU} Performance Evaluation},
+  Author                   = {Nicolas Vasilache and
+Jeff Johnson and
+Micha{\"{e}}l Mathieu and
+Soumith Chintala and
+Serkan Piantino and
+Yann LeCun},
+  Journal                  = {CoRR},
+  Year                     = {2014},
+  Volume                   = {abs/1412.7580},
+
+  Bibsource                = {dblp computer science bibliography, http://dblp.org},
+  Biburl                   = {http://dblp.uni-trier.de/rec/bib/journals/corr/VasilacheJMCPL14},
+  Link                     = {http://arxiv.org/abs/1412.7580},
+  Timestamp                = {Thu, 01 Jan 2015 19:51:08 +0100}
+}
+
+@InProceedings{Weng1992,
+  Title                    = {Cresceptron: a self-organizing neural network which grows adaptively},
+  Author                   = {Weng, Juyang and Ahuja, Narendra and Huang, Thomas S},
+  Booktitle                = {International Joint Conference on Neural Networks (IJCNN)},
+  Year                     = {1992},
+  Organization             = {IEEE},
+  Pages                    = {576--581},
+  Volume                   = {1},
+
+  File                     = {:papers/Weng1992.pdf:PDF}
+}
+
+@Article{Whitrow2009,
+  Title                    = {Transaction aggregation as a strategy for credit card fraud detection},
+  Author                   = {Christopher Whitrow and
+David J. Hand and
+Piotr Juszczak and
+David J. Weston and
+Niall M. Adams},
+  Journal                  = {Data Min. Knowl. Discov.},
+  Year                     = {2009},
+  Number                   = {1},
+  Pages                    = {30--55},
+  Volume                   = {18},
+
+  Bibsource                = {dblp computer science bibliography, http://dblp.org},
+  Biburl                   = {http://dblp.uni-trier.de/rec/bib/journals/datamine/WhitrowHJWA09},
+  Doi                      = {10.1007/s10618-008-0116-z},
+  Link                     = {http://dx.doi.org/10.1007/s10618-008-0116-z},
+  Timestamp                = {Thu, 07 May 2009 14:22:12 +0200}
+}
+
+@Article{Zeiler2013,
+  Title                    = {Visualizing and Understanding Convolutional Networks},
+  Author                   = {Matthew D. Zeiler and
+ Rob Fergus},
+  Journal                  = {CoRR},
+  Year                     = {2013},
+  Volume                   = {abs/1311.2901},
+
+  Bibsource                = {dblp computer science bibliography, http://dblp.org},
+  Biburl                   = {http://dblp.uni-trier.de/rec/bib/journals/corr/ZeilerF13},
+  File                     = {:papers/Zeiler2013.pdf:PDF},
+  Timestamp                = {Tue, 03 Dec 2013 15:04:22 +0100},
+  Url                      = {http://arxiv.org/abs/1311.2901}
+}
+
+@Article{Zhang2014,
+  Title                    = {Deep learning with Elastic Averaging {SGD}},
+  Author                   = {Sixin Zhang and
+Anna Choromanska and
+Yann LeCun},
+  Journal                  = {CoRR},
+  Year                     = {2014},
+  Volume                   = {abs/1412.6651},
+
+  Bibsource                = {dblp computer science bibliography, http://dblp.org},
+  Biburl                   = {http://dblp.uni-trier.de/rec/bib/journals/corr/ZhangCL14a},
+  Link                     = {http://arxiv.org/abs/1412.6651},
+  Timestamp                = {Thu, 01 Jan 2015 19:51:08 +0100}
+}
+
+@Article{Zhang2015,
+  Title                    = {Text Understanding from Scratch},
+  Author                   = {Xiang Zhang and
+Yann LeCun},
+  Journal                  = {CoRR},
+  Year                     = {2015},
+  Volume                   = {abs/1502.01710},
+
+  Bibsource                = {dblp computer science bibliography, http://dblp.org},
+  Biburl                   = {http://dblp.uni-trier.de/rec/bib/journals/corr/ZhangL15},
+  Link                     = {http://arxiv.org/abs/1502.01710},
+  Timestamp                = {Mon, 02 Mar 2015 14:17:34 +0100}
+}
+
+@Book{Bianchini2013,
+  Title                    = {Handbook on Neural Information Processing},
+  Editor                   = {Monica Bianchini and
+Marco Maggini and
+Lakhmi C. Jain},
+  Publisher                = {Springer},
+  Year                     = {2013},
+  Series                   = {Intelligent Systems Reference Library},
+  Volume                   = {49},
+
+  Bibsource                = {dblp computer science bibliography, http://dblp.org},
+  Biburl                   = {http://dblp.uni-trier.de/rec/bib/series/isrl/49},
+  Booktitle                = {Handbook on Neural Information Processing},
+  Doi                      = {10.1007/978-3-642-36657-4},
+  ISBN                     = {978-3-642-36656-7},
+  Link                     = {http://dx.doi.org/10.1007/978-3-642-36657-4},
+  Timestamp                = {Fri, 20 Sep 2013 17:42:12 +0200}
+}
+
+@Proceedings{ICML08,
+  Title                    = {Proceedings of the Twenty-fifth International Conference on Machine Learning (ICML'08)},
+  Year                     = {2008},
+  Editor                   = {Cohen, William W. and McCallum, Andrew and Roweis, Sam T.},
+  Publisher                = {ACM},
+
+  Booktitle                = {Proceedings of the Twenty-fifth International Conference on Machine Learning (ICML'08)}
+}
+
+@Book{Montavon2012,
+  Title                    = {Neural Networks: Tricks of the Trade - Second Edition},
+  Editor                   = {Gr{\'{e}}goire Montavon and
+Genevieve B. Orr and
+Klaus{-}Robert M{\"{u}}ller},
+  Publisher                = {Springer},
+  Year                     = {2012},
+  Series                   = {Lecture Notes in Computer Science},
+  Volume                   = {7700},
+
+  Bibsource                = {dblp computer science bibliography, http://dblp.org},
+  Biburl                   = {http://dblp.uni-trier.de/rec/bib/series/lncs/7700},
+  Booktitle                = {Neural Networks: Tricks of the Trade (2nd ed.)},
+  Doi                      = {10.1007/978-3-642-35289-8},
+  ISBN                     = {978-3-642-35288-1},
+  Link                     = {http://dx.doi.org/10.1007/978-3-642-35289-8},
+  Timestamp                = {Mon, 09 Sep 2013 18:51:12 +0200}
+}
+
+@comment{jabref-meta: groupsversion:3;}
+
+@comment{jabref-meta: groupstree:
+0 AllEntriesGroup:;
+1 KeywordGroup:Auto-encoders\;0\;Tags\;autoencoder\;0\;0\;;
+1 ExplicitGroup:Automatically created groups\;2\;;
+2 KeywordGroup:Adams\;0\;author\;Adams\;0\;0\;;
+2 KeywordGroup:Ahuja\;0\;author\;Ahuja\;0\;0\;;
+2 KeywordGroup:Alain\;0\;author\;Alain\;0\;0\;;
+2 KeywordGroup:Al{-}Khatib\;0\;author\;Al{-}Khatib\;0\;0\;;
+2 KeywordGroup:Arruda Pereira\;0\;author\;Arruda Pereira\;0\;0\;;
+2 KeywordGroup:Assis\;0\;author\;Assis\;0\;0\;;
+2 KeywordGroup:Athanasakis\;0\;author\;Athanasakis\;0\;0\;;
+2 KeywordGroup:Bach\;0\;author\;Bach\;0\;0\;;
+2 KeywordGroup:Baehrens\;0\;author\;Baehrens\;0\;0\;;
+2 KeywordGroup:Barone\;0\;author\;Barone\;0\;0\;;
+2 KeywordGroup:Behdad\;0\;author\;Behdad\;0\;0\;;
+2 KeywordGroup:Bengio\;0\;author\;Bengio\;0\;0\;;
+2 KeywordGroup:Bennamoun\;0\;author\;Bennamoun\;0\;0\;;
+2 KeywordGroup:Bergstra\;0\;author\;Bergstra\;0\;0\;;
+2 KeywordGroup:Bhand\;0\;author\;Bhand\;0\;0\;;
+2 KeywordGroup:Bhaskar\;0\;author\;Bhaskar\;0\;0\;;
+2 KeywordGroup:Bordes\;0\;author\;Bordes\;0\;0\;;
+2 KeywordGroup:Bornschein\;0\;author\;Bornschein\;0\;0\;;
+2 KeywordGroup:Bottou\;0\;author\;Bottou\;0\;0\;;
+2 KeywordGroup:Bougares\;0\;author\;Bougares\;0\;0\;;
+2 KeywordGroup:Boulanger{-}Lewandowski\;0\;author\;Boulanger{-}Lewando
+wski\;0\;0\;;
+2 KeywordGroup:Boureau\;0\;author\;Boureau\;0\;0\;;
+2 KeywordGroup:Brand{~{a}}o\;0\;author\;Brand{~{a}}o\;0\;0\;;
+2 KeywordGroup:Bregler\;0\;author\;Bregler\;0\;0\;;
+2 KeywordGroup:Bruna\;0\;author\;Bruna\;0\;0\;;
+2 KeywordGroup:Caldeira\;0\;author\;Caldeira\;0\;0\;;
+2 KeywordGroup:Campos\;0\;author\;Campos\;0\;0\;;
+2 KeywordGroup:Carrano\;0\;author\;Carrano\;0\;0\;;
+2 KeywordGroup:Carrier\;0\;author\;Carrier\;0\;0\;;
+2 KeywordGroup:Catanzaro\;0\;author\;Catanzaro\;0\;0\;;
+2 KeywordGroup:Chae\;0\;author\;Chae\;0\;0\;;
+2 KeywordGroup:Chen\;0\;author\;Chen\;0\;0\;;
+2 KeywordGroup:Cheng\;0\;author\;Cheng\;0\;0\;;
+2 KeywordGroup:Chintala\;0\;author\;Chintala\;0\;0\;;
+2 KeywordGroup:Cho\;0\;author\;Cho\;0\;0\;;
+2 KeywordGroup:Choromanska\;0\;author\;Choromanska\;0\;0\;;
+2 KeywordGroup:Chuang\;0\;author\;Chuang\;0\;0\;;
+2 KeywordGroup:Chung\;0\;author\;Chung\;0\;0\;;
+2 KeywordGroup:Clune\;0\;author\;Clune\;0\;0\;;
+2 KeywordGroup:Coates\;0\;author\;Coates\;0\;0\;;
+2 KeywordGroup:Corrado\;0\;author\;Corrado\;0\;0\;;
+2 KeywordGroup:Courville\;0\;author\;Courville\;0\;0\;;
+2 KeywordGroup:Cruz\;0\;author\;Cruz\;0\;0\;;
+2 KeywordGroup:Cukierski\;0\;author\;Cukierski\;0\;0\;;
+2 KeywordGroup:Dahl\;0\;author\;Dahl\;0\;0\;;
+2 KeywordGroup:Daly\;0\;author\;Daly\;0\;0\;;
+2 KeywordGroup:Darrell\;0\;author\;Darrell\;0\;0\;;
+2 KeywordGroup:Dean\;0\;author\;Dean\;0\;0\;;
+2 KeywordGroup:Deng\;0\;author\;Deng\;0\;0\;;
+2 KeywordGroup:Deoras\;0\;author\;Deoras\;0\;0\;;
+2 KeywordGroup:Devin\;0\;author\;Devin\;0\;0\;;
+2 KeywordGroup:Donahue\;0\;author\;Donahue\;0\;0\;;
+2 KeywordGroup:Dorronsoro\;0\;author\;Dorronsoro\;0\;0\;;
+2 KeywordGroup:Ducharme\;0\;author\;Ducharme\;0\;0\;;
+2 KeywordGroup:Dumoulin\;0\;author\;Dumoulin\;0\;0\;;
+2 KeywordGroup:Eigen\;0\;author\;Eigen\;0\;0\;;
+2 KeywordGroup:Elkan\;0\;author\;Elkan\;0\;0\;;
+2 KeywordGroup:Erhan\;0\;author\;Erhan\;0\;0\;;
+2 KeywordGroup:Essen\;0\;author\;Essen\;0\;0\;;
+2 KeywordGroup:Felleman\;0\;author\;Felleman\;0\;0\;;
+2 KeywordGroup:Feng\;0\;author\;Feng\;0\;0\;;
+2 KeywordGroup:Fergus\;0\;author\;Fergus\;0\;0\;;
+2 KeywordGroup:Field\;0\;author\;Field\;0\;0\;;
+2 KeywordGroup:French\;0\;author\;French\;0\;0\;;
+2 KeywordGroup:Ginel\;0\;author\;Ginel\;0\;0\;;
+2 KeywordGroup:Girshick\;0\;author\;Girshick\;0\;0\;;
+2 KeywordGroup:Glorot\;0\;author\;Glorot\;0\;0\;;
+2 KeywordGroup:Goodfellow\;0\;author\;Goodfellow\;0\;0\;;
+2 KeywordGroup:Goroshin\;0\;author\;Goroshin\;0\;0\;;
+2 KeywordGroup:Graves\;0\;author\;Graves\;0\;0\;;
+2 KeywordGroup:Grosse\;0\;author\;Grosse\;0\;0\;;
+2 KeywordGroup:Grozea\;0\;author\;Grozea\;0\;0\;;
+2 KeywordGroup:Guillen\;0\;author\;Guillen\;0\;0\;;
+2 KeywordGroup:Gulcehre\;0\;author\;Gulcehre\;0\;0\;;
+2 KeywordGroup:G{"{u}}l{c{c}}ehre\;0\;author\;G{"{u}}l{c{c}}ehre\;0\;0
+\;;
+2 KeywordGroup:Haffner\;0\;author\;Haffner\;0\;0\;;
+2 KeywordGroup:Hal{'{a}}csy\;0\;author\;Hal{'{a}}csy\;0\;0\;;
+2 KeywordGroup:Hamner\;0\;author\;Hamner\;0\;0\;;
+2 KeywordGroup:Hand\;0\;author\;Hand\;0\;0\;;
+2 KeywordGroup:Hansen\;0\;author\;Hansen\;0\;0\;;
+2 KeywordGroup:Harmeling\;0\;author\;Harmeling\;0\;0\;;
+2 KeywordGroup:Hattab\;0\;author\;Hattab\;0\;0\;;
+2 KeywordGroup:Henaff\;0\;author\;Henaff\;0\;0\;;
+2 KeywordGroup:Hinton\;0\;author\;Hinton\;0\;0\;;
+2 KeywordGroup:Hochreiter\;0\;author\;Hochreiter\;0\;0\;;
+2 KeywordGroup:Hu\;0\;author\;Hu\;0\;0\;;
+2 KeywordGroup:Huang\;0\;author\;Huang\;0\;0\;;
+2 KeywordGroup:Hurri\;0\;author\;Hurri\;0\;0\;;
+2 KeywordGroup:Huval\;0\;author\;Huval\;0\;0\;;
+2 KeywordGroup:Hyv"{a}rinen\;0\;author\;Hyv"{a}rinen\;0\;0\;;
+2 KeywordGroup:Ionescu\;0\;author\;Ionescu\;0\;0\;;
+2 KeywordGroup:Jain\;0\;author\;Jain\;0\;0\;;
+2 KeywordGroup:Janvin\;0\;author\;Janvin\;0\;0\;;
+2 KeywordGroup:Jha\;0\;author\;Jha\;0\;0\;;
+2 KeywordGroup:Johnson\;0\;author\;Johnson\;0\;0\;;
+2 KeywordGroup:Jr.\;0\;author\;Jr.\;0\;0\;;
+2 KeywordGroup:Juszczak\;0\;author\;Juszczak\;0\;0\;;
+2 KeywordGroup:J{'{u}}nior\;0\;author\;J{'{u}}nior\;0\;0\;;
+2 KeywordGroup:Kalaska\;0\;author\;Kalaska\;0\;0\;;
+2 KeywordGroup:Kavukcuoglu\;0\;author\;Kavukcuoglu\;0\;0\;;
+2 KeywordGroup:Kawanabe\;0\;author\;Kawanabe\;0\;0\;;
+2 KeywordGroup:Khosla\;0\;author\;Khosla\;0\;0\;;
+2 KeywordGroup:Kim\;0\;author\;Kim\;0\;0\;;
+2 KeywordGroup:Kingsbury\;0\;author\;Kingsbury\;0\;0\;;
+2 KeywordGroup:Koh\;0\;author\;Koh\;0\;0\;;
+2 KeywordGroup:Krizhevsky\;0\;author\;Krizhevsky\;0\;0\;;
+2 KeywordGroup:Lahiri\;0\;author\;Lahiri\;0\;0\;;
+2 KeywordGroup:Lamblin\;0\;author\;Lamblin\;0\;0\;;
+2 KeywordGroup:Lamme\;0\;author\;Lamme\;0\;0\;;
+2 KeywordGroup:Larochelle\;0\;author\;Larochelle\;0\;0\;;
+2 KeywordGroup:Laufer\;0\;author\;Laufer\;0\;0\;;
+2 KeywordGroup:Le\;0\;author\;Le\;0\;0\;;
+2 KeywordGroup:LeCun\;0\;author\;LeCun\;0\;0\;;
+2 KeywordGroup:Lee\;0\;author\;Lee\;0\;0\;;
+2 KeywordGroup:Li\;0\;author\;Li\;0\;0\;;
+2 KeywordGroup:Lim\;0\;author\;Lim\;0\;0\;;
+2 KeywordGroup:Lima\;0\;author\;Lima\;0\;0\;;
+2 KeywordGroup:Lin\;0\;author\;Lin\;0\;0\;;
+2 KeywordGroup:Lipson\;0\;author\;Lipson\;0\;0\;;
+2 KeywordGroup:M&#252\\\;ller\;0\;author\;M&#252\\\;ller\;0\;0\;;
+2 KeywordGroup:Maas\;0\;author\;Maas\;0\;0\;;
+2 KeywordGroup:Malik\;0\;author\;Malik\;0\;0\;;
+2 KeywordGroup:Manning\;0\;author\;Manning\;0\;0\;;
+2 KeywordGroup:Mansimov\;0\;author\;Mansimov\;0\;0\;;
+2 KeywordGroup:Manzagol\;0\;author\;Manzagol\;0\;0\;;
+2 KeywordGroup:Mao\;0\;author\;Mao\;0\;0\;;
+2 KeywordGroup:Martens\;0\;author\;Martens\;0\;0\;;
+2 KeywordGroup:Mathieu\;0\;author\;Mathieu\;0\;0\;;
+2 KeywordGroup:Mehta\;0\;author\;Mehta\;0\;0\;;
+2 KeywordGroup:Merrienboer\;0\;author\;Merrienboer\;0\;0\;;
+2 KeywordGroup:Miao\;0\;author\;Miao\;0\;0\;;
+2 KeywordGroup:Milakov\;0\;author\;Milakov\;0\;0\;;
+2 KeywordGroup:Mirza\;0\;author\;Mirza\;0\;0\;;
+2 KeywordGroup:Mohamed\;0\;author\;Mohamed\;0\;0\;;
+2 KeywordGroup:Monga\;0\;author\;Monga\;0\;0\;;
+2 KeywordGroup:Montr{'{e}}al\;0\;author\;Montr{'{e}}al\;0\;0\;;
+2 KeywordGroup:Mumford\;0\;author\;Mumford\;0\;0\;;
+2 KeywordGroup:M{"{u}}ller\;0\;author\;M{"{u}}ller\;0\;0\;;
+2 KeywordGroup:Nam\;0\;author\;Nam\;0\;0\;;
+2 KeywordGroup:Ng\;0\;author\;Ng\;0\;0\;;
+2 KeywordGroup:Ngiam\;0\;author\;Ngiam\;0\;0\;;
+2 KeywordGroup:Nie\;0\;author\;Nie\;0\;0\;;
+2 KeywordGroup:Niebur\;0\;author\;Niebur\;0\;0\;;
+2 KeywordGroup:Olshausen\;0\;author\;Olshausen\;0\;0\;;
+2 KeywordGroup:Orr\;0\;author\;Orr\;0\;0\;;
+2 KeywordGroup:Osindero\;0\;author\;Osindero\;0\;0\;;
+2 KeywordGroup:Pappa\;0\;author\;Pappa\;0\;0\;;
+2 KeywordGroup:Park\;0\;author\;Park\;0\;0\;;
+2 KeywordGroup:Pascanu\;0\;author\;Pascanu\;0\;0\;;
+2 KeywordGroup:Penn\;0\;author\;Penn\;0\;0\;;
+2 KeywordGroup:Pennington\;0\;author\;Pennington\;0\;0\;;
+2 KeywordGroup:Pereira\;0\;author\;Pereira\;0\;0\;;
+2 KeywordGroup:Pham\;0\;author\;Pham\;0\;0\;;
+2 KeywordGroup:Piantino\;0\;author\;Piantino\;0\;0\;;
+2 KeywordGroup:Ponce\;0\;author\;Ponce\;0\;0\;;
+2 KeywordGroup:Popescu\;0\;author\;Popescu\;0\;0\;;
+2 KeywordGroup:Popovici\;0\;author\;Popovici\;0\;0\;;
+2 KeywordGroup:Potts\;0\;author\;Potts\;0\;0\;;
+2 KeywordGroup:Prochnow\;0\;author\;Prochnow\;0\;0\;;
+2 KeywordGroup:Qu{'{e}}bec\;0\;author\;Qu{'{e}}bec\;0\;0\;;
+2 KeywordGroup:Raiko\;0\;author\;Raiko\;0\;0\;;
+2 KeywordGroup:Ramaiah\;0\;author\;Ramaiah\;0\;0\;;
+2 KeywordGroup:Ranganath\;0\;author\;Ranganath\;0\;0\;;
+2 KeywordGroup:Ranzato\;0\;author\;Ranzato\;0\;0\;;
+2 KeywordGroup:Rivest\;0\;author\;Rivest\;0\;0\;;
+2 KeywordGroup:Rolfe\;0\;author\;Rolfe\;0\;0\;;
+2 KeywordGroup:Romaszko\;0\;author\;Romaszko\;0\;0\;;
+2 KeywordGroup:Romero\;0\;author\;Romero\;0\;0\;;
+2 KeywordGroup:Roweis\;0\;author\;Roweis\;0\;0\;;
+2 KeywordGroup:Rumelhart\;0\;author\;Rumelhart\;0\;0\;;
+2 KeywordGroup:Sachan\;0\;author\;Sachan\;0\;0\;;
+2 KeywordGroup:Salakhutdinov\;0\;author\;Salakhutdinov\;0\;0\;;
+2 KeywordGroup:Sanchez\;0\;author\;Sanchez\;0\;0\;;
+2 KeywordGroup:Sarikaya\;0\;author\;Sarikaya\;0\;0\;;
+2 KeywordGroup:Saxe\;0\;author\;Saxe\;0\;0\;;
+2 KeywordGroup:Schaul\;0\;author\;Schaul\;0\;0\;;
+2 KeywordGroup:Schmah\;0\;author\;Schmah\;0\;0\;;
+2 KeywordGroup:Schmidhuber\;0\;author\;Schmidhuber\;0\;0\;;
+2 KeywordGroup:Schroeter\;0\;author\;Schroeter\;0\;0\;;
+2 KeywordGroup:Schwab\;0\;author\;Schwab\;0\;0\;;
+2 KeywordGroup:Schwenk\;0\;author\;Schwenk\;0\;0\;;
+2 KeywordGroup:Senior\;0\;author\;Senior\;0\;0\;;
+2 KeywordGroup:Sermanet\;0\;author\;Sermanet\;0\;0\;;
+2 KeywordGroup:Sha\;0\;author\;Sha\;0\;0\;;
+2 KeywordGroup:Shawe{-}Taylor\;0\;author\;Shawe{-}Taylor\;0\;0\;;
+2 KeywordGroup:Shim\;0\;author\;Shim\;0\;0\;;
+2 KeywordGroup:Small\;0\;author\;Small\;0\;0\;;
+2 KeywordGroup:Socher\;0\;author\;Socher\;0\;0\;;
+2 KeywordGroup:Sordoni\;0\;author\;Sordoni\;0\;0\;;
+2 KeywordGroup:Srivastava\;0\;author\;Srivastava\;0\;0\;;
+2 KeywordGroup:Strother\;0\;author\;Strother\;0\;0\;;
+2 KeywordGroup:Suresh\;0\;author\;Suresh\;0\;0\;;
+2 KeywordGroup:Sutskever\;0\;author\;Sutskever\;0\;0\;;
+2 KeywordGroup:Szegedy\;0\;author\;Szegedy\;0\;0\;;
+2 KeywordGroup:S{'{a}}\;0\;author\;S{'{a}}\;0\;0\;;
+2 KeywordGroup:Tang\;0\;author\;Tang\;0\;0\;;
+2 KeywordGroup:Taylor\;0\;author\;Taylor\;0\;0\;;
+2 KeywordGroup:Teh\;0\;author\;Teh\;0\;0\;;
+2 KeywordGroup:Thaler\;0\;author\;Thaler\;0\;0\;;
+2 KeywordGroup:Thing\;0\;author\;Thing\;0\;0\;;
+2 KeywordGroup:Tompson\;0\;author\;Tompson\;0\;0\;;
+2 KeywordGroup:Tucker\;0\;author\;Tucker\;0\;0\;;
+2 KeywordGroup:Valpola\;0\;author\;Valpola\;0\;0\;;
+2 KeywordGroup:Vasilache\;0\;author\;Vasilache\;0\;0\;;
+2 KeywordGroup:Veloso\;0\;author\;Veloso\;0\;0\;;
+2 KeywordGroup:Vincent\;0\;author\;Vincent\;0\;0\;;
+2 KeywordGroup:Vinyals\;0\;author\;Vinyals\;0\;0\;;
+2 KeywordGroup:Wan\;0\;author\;Wan\;0\;0\;;
+2 KeywordGroup:Wang\;0\;author\;Wang\;0\;0\;;
+2 KeywordGroup:Weinberger\;0\;author\;Weinberger\;0\;0\;;
+2 KeywordGroup:Weng\;0\;author\;Weng\;0\;0\;;
+2 KeywordGroup:Westland\;0\;author\;Westland\;0\;0\;;
+2 KeywordGroup:Weston\;0\;author\;Weston\;0\;0\;;
+2 KeywordGroup:Whitrow\;0\;author\;Whitrow\;0\;0\;;
+2 KeywordGroup:Williams\;0\;author\;Williams\;0\;0\;;
+2 KeywordGroup:Wu\;0\;author\;Wu\;0\;0\;;
+2 KeywordGroup:Xie\;0\;author\;Xie\;0\;0\;;
+2 KeywordGroup:Xu\;0\;author\;Xu\;0\;0\;;
+2 KeywordGroup:Yang\;0\;author\;Yang\;0\;0\;;
+2 KeywordGroup:Yao\;0\;author\;Yao\;0\;0\;;
+2 KeywordGroup:Yoon\;0\;author\;Yoon\;0\;0\;;
+2 KeywordGroup:Yosinski\;0\;author\;Yosinski\;0\;0\;;
+2 KeywordGroup:Yu\;0\;author\;Yu\;0\;0\;;
+2 KeywordGroup:Zaremba\;0\;author\;Zaremba\;0\;0\;;
+2 KeywordGroup:Zeiler\;0\;author\;Zeiler\;0\;0\;;
+2 KeywordGroup:Zemel\;0\;author\;Zemel\;0\;0\;;
+2 KeywordGroup:Zhang\;0\;author\;Zhang\;0\;0\;;
+2 KeywordGroup:Zheng\;0\;author\;Zheng\;0\;0\;;
+2 KeywordGroup:Zhou\;0\;author\;Zhou\;0\;0\;;
+1 KeywordGroup:Boltzmann Machines\;0\;Tags\;boltzman\;0\;0\;;
+}
+

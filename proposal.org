@@ -1,0 +1,238 @@
+
+#+LINK: note file:notes.org::%s
+#+TAGS: foundations(f) historic(h) recurrent(r) imageproc(i) rbms(m) biology(b) discriminative(d) generative(g) autoencoder(a)
+Tasks
+* Research Proposal
+:PROPERTIES:
+:Reference: [[http://www.postgraduate.uwa.edu.au/students/proposals/format][UWA Reference]]
+:END:
+
+** Outline
+*** TODO Project Title and Summary
+*** TODO Research Project
+*** TODO Research Project Details
+*** TODO Research Training
+*** TODO Budget
+*** TODO Supervision
+
+** Actual reading
+*** Learning multiple layers of representation              :rbms:generative:
+:PROPERTIES:
+:Custom_ID: Hinton2007
+:END:
+[[file:papers/Hinton2007.pdf][Hinton2007]]
+**** Synopsis
+Hinton complements the neural and psychological evidence for generative
+models by reviewing recent computational advances that make if
+feasible to train generative models. He illustrates the advances for
+the domain of hand-written digit recognition.
+**** Notes
+This is a 'popular science' approach - good for an intutive overview.
+It also touches on inference in generative models, i.e. factor
+analysis and independent components analysis and provides references
+for each.
+He also outlines a small approach for using RBMs for sequences
+*** Reducing the dimensionality of data with neural networks :generative:autoencoder:
+:PROPERTIES:
+:Custom_ID: Hinton2006a
+:END:
+[[file:papers/Hinton2006a.pdf][Hinton2006a]]
+**** Synopsis
+Hinton and Salakhutdinov show how deep-autoencoders prove superior to
+principal component analysis (PCA) for dimensionality reduction. They
+show an effective way to initialise autoencoder weights to allow
+succesfull training with gradient descent methods.
+
+*** To Recognize Shapes First Learn to Generate Images
+:PROPERTIES:
+:Custom_ID: Hinton2007a
+:END:
+[[file:papers/Hinton2007a.pdf][Hinton2007a]]
+**** Synopsis
+
+*** New types of deep neural network learning for speech recognition and related applications: an overview
+:PROPERTIES:
+:Custom_ID: Deng2013
+:END:
+[[file:papers/Deng2013.pdf][Deng2013]]
+**** Synopsis
+
+*** Unsupervised Learning of Video Representations using {LS}TMs  :recurrent:
+:PROPERTIES:
+:Custom_ID: Srivastava2015
+:END:
+[[file:papers/Srivastava2015.pdf][Srivastava2015]]
+**** Synopsis
+
+*** Greedy layer-wise training of deep networks
+:PROPERTIES:
+:Custom_ID: Bengio2007
+:END:
+[[file:papers/Bengio2007.pdf][Bengio2007]]
+**** Synopsis
+
+*** Learning Deep Architectures for {AI}
+:PROPERTIES:
+:Custom_ID: Bengio2009
+:END:
+[[file:papers/Bengio2009.pdf][Bengio2009]]
+**** Synopsis
+Bengio argues for the need of deep architectures for AI applications
+by pointing out the limitations of shallow architectures with respect
+to desirebilita for AI - both fomally and intuitively. He explains how
+learning distributed representations helps overcome the curse of
+dimensionality plaguing local estimators. Bengio introduces several NN
+based Deep Architectures, including Auto-Encoders and Convolutional
+NNs, and the challenges training them. In subsequent chapters he
+introduces Energy-Based models, Boltzman Machines, Restricted Boltzman
+Machines, and shows how they can be trained in a greedy layer-by-layer
+fashion. He concludes with an outlook and open questions.
+   
+*** Deep Learning in Neural Networks: An Overview
+:PROPERTIES:
+:Custom_ID: Schmidhuber2014
+:END:
+[[file:papers/Schmidhuber2014.pdf][Schmidhuber2014]]
+
+** Should read
+*** Classification Using Discriminative Restricted Boltzmann Machines :rbms:discriminative:
+:PROPERTIES:
+:Custom_ID: Larochelle2008
+:END:
+[[file:papers/Larochelle2008.pdf][Larochelle2008]]
+
+** Read later
+*** Cresceptron: a self-organizing neural network which grows adaptively
+:PROPERTIES:
+:Custom_ID: Weng1992
+:END:
+[[file:papers/Weng1992.pdf][Weng1992]]
+**** Notes
+Interesting approach to structure learning - might be interesting if
+in scope
+
+** Already read
+
+
+** Notes
+
+* TODO Watch: [[https://www.youtube.com/watch?v%3DexhdfIPzj24][AGI-14 Keynote by Yoshua Bengio on Deep Learning]]
+* TODO Understand: How does DN classification work?
+** Should read
+*** {How to Explain Individual Classification Decisions}
+:PROPERTIES:
+:Custom_ID: Baehrens
+:END:
+[[file:papers/Baehrens.pdf][Baehrens]]
+*** Rich feature hierarchies for accurate object detection and semantic segmentation
+:PROPERTIES:
+:Custom_ID: Girshick2013
+:END:
+[[file:papers/Girshick2013.pdf][Girshick2013]]
+*** Visualizing and Understanding Convolutional Networks
+:PROPERTIES:
+:Custom_ID: Zeiler2013
+:END:
+[[file:papers/Zeiler2013.pdf][Zeiler2013]]
+*** Measuring Invariances in Deep Networks
+:PROPERTIES:
+:Custom_ID: Goodfellow2009
+:END:
+[[file:papers/Goodfellow2009.pdf][Goodfellow2009]]
+*** Why does unsupervised pre-training help deep learning
+:PROPERTIES:
+:Custom_ID: Erhan2010
+:END:
+[[file:papers/Erhan2010.pdf][Erhan2010]]
+*** Building high-level features using large scale unsupervised learning
+:PROPERTIES:
+:Custom_ID: Le2012
+:END:
+[[file:papers/Le2012.pdf][Le2012]]
+*** Visualizing Higher-Layer Features of a Deep Network
+:PROPERTIES:
+:Custom_ID: Erhan2009
+:END:
+[[file:papers/Erhan2009.pdf][Erhan2009]]
+* TODO Biological foundations for DL
+** Actual reading
+*** Emergence of Simple-Cell Receptive Field Properties by Learning a Sparse Code for Natural Images
+:PROPERTIES:
+:Custom_ID: Olshausen
+:END:
+[[file:papers/Olshausen.pdf][Olshausen]]
+**** Synopsis
+Olshausen et.al. show that attempting to learn a sparse, linear representation
+of natural images will develop a complete family of localized,
+oriented, bandpass-rceiptive fields, similar to those found in the
+primary visual cortex.
+
+** Should read
+*** {An exact mapping between the Variational Renormalization Group and Deep Learning}
+:PROPERTIES:
+:Custom_ID: Mehta2014
+:END:
+[[file:papers/Mehta2014.pdf][Mehta2014]]
+*** Towards Biologically Plausible Deep Learning
+:PROPERTIES:
+:Custom_ID: Bengio2015
+:END:
+[[file:papers/Bengio2015.pdf][Bengio2015]]
+*** Neurocomputing: Foundations of Research            :foundations:historic:
+:PROPERTIES:
+:Custom_ID: Rumelhart1988
+:END:
+[[file:papers/Rumelhart1988.pdf][Rumelhart1988]]
+
+*** The role of the primary visual cortex in higher level vision
+:PROPERTIES:
+:Custom_ID: Lee1998
+:END:
+[[file:papers/Lee1998.pdf][Lee1998]]
+
+*** Distributed hierarchical processing in the primate cerebral cortex :foundations:biology:
+:PROPERTIES:
+:Custom_ID: Felleman1991
+:END:
+[[file:papers/Felleman1991.pdf][Felleman1991]]
+
+
+* Agenda presentation April 10th
+** Defintions
+*** SL, DL, CAPs, RNN, FNN (see [[file:papers/Schmidhuber2014.pdf][Schmidhuber2014]])
+*** Types of DN
+*** Biological explanation as to why DNN work so well (sparsity, etc. see [[file:papers/Olshausen.pdf][Olshausen]])
+*** Long Short-Term Memory
+:PROPERTIES:
+:Custom_ID: Hochreiter1997
+:END:
+[[file:papers/Hochreiter1997.pdf][Hochreiter1997]]
+
+*** Application examples
+**** Image processing
+**** Natural language processing
+**** Speech
+**** Recommender systems
+*** Introduction to CBA transaction data
+*** Models built on CBA
+*** Research themes
+
+* Auto-encoders
+Trained with Back-prop
+** Sparse auto-encoders ([[file:papers/Le2012.pdf][Le2012]], [[file:papers/Goodfellow2009.pdf][Goodfellow2009]])
+** Denoising auto-encoders ([[file:papers/Vincent2008.pdf][Vincent2008]]) 
+** Contractive auto-encoders ([[file:papers/Rifai2011.pdf][Rifai2011]]) 
+** Variational auto-encoders ([[file:papers/Kingma2013.pdf][Kingma2013]])
+* Boltzmann machines and variations
+Other unsupervised learning algorithms exist which do not rely on
+back-propagation, such as the various Boltz- mann machine learning
+algorithms ([[file:papers/Ackley1985.pdf][Ackley1985]]; [[file:papers/Smolensky1986.pdf][Smolensky1986]]; [[file:papers/Hinton2006.pdf][Hinton2006]]; [[file:papers/Salakhutdinov2009.pdf][Salakhutdinov2009]]). 
+Boltzmann machines are probably the most biologically plausible
+learning algorithms for deep architectures that we currently know, but
+they also face several question marks in this regard, such as the
+weight trans- port problem ((3) above) to achieve symmetric weights,
+and the positive-phase vs negative-phase synchronization ques- tion
+(similar to (5) above).
+
+
+

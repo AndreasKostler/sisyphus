@@ -1,0 +1,1 @@
+* TODO For some reason sometimes, when there's an 'abstract' field in the bibtex entry, reftex fails to find that entry
